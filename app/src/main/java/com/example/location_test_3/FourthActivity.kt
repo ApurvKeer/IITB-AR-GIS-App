@@ -34,6 +34,7 @@ class FourthActivity : AppCompatActivity(), SensorEventListener, LocationListene
     private lateinit var place_text: TextView
     private lateinit var dist_text: TextView
     private lateinit var turn_angle: TextView
+    private lateinit var dir_text: TextView
     private lateinit var searchBar: AutoCompleteTextView
 
 
@@ -74,6 +75,7 @@ class FourthActivity : AppCompatActivity(), SensorEventListener, LocationListene
         dist_text = findViewById(R.id.textView6)
         turn_angle = findViewById(R.id.textView7)
         searchBar = findViewById(R.id.searchBar)
+        dir_text = findViewById((R.id.textView24))
 
         val suggestions = pythonModule.callAttr("get_suggestions").asList().map { it.toString() }
         val adapter = ArrayAdapter(this, android.R.layout.simple_dropdown_item_1line, suggestions)
@@ -95,26 +97,35 @@ class FourthActivity : AppCompatActivity(), SensorEventListener, LocationListene
         rotationVectorSensor = sensorManager.getDefaultSensor(Sensor.TYPE_ROTATION_VECTOR)
     }
 
-    private fun handleLocationUpdate() {
+    private fun handleLocationUpdate(location: Location) {
         val name = searchBar.text.toString()
         if (name.isNotEmpty()) {
+
+            val latitude = location.latitude
+            val longitude = location.longitude
+            latitude_val = latitude.toString()
+            longitude_val = longitude.toString()
+            latitude_text.setText(longitude.toString())
+            longitude_text.setText(latitude.toString())
             // For testing purposes
-            latitude_val = "19.1375"
-            longitude_val = "72.9125"
-            orientation_val = "45"
+//            latitude_val = "19.1375"
+//            longitude_val = "72.9125"
+//            orientation_val = "45"
 
             val result: PyObject = pythonModule.callAttr("get_place_in_view", latitude_val, longitude_val, orientation_val, name)
 
             // Extract name, distance, turn angle, and other_tags
             val placeName = result.asList()[0].toString()
             val distance = result.asList()[1].toString() + " meters"
-            val turnAngle = result.asList()[2].toString() + " degrees"
-            val otherTags = result.asList()[3].toString()
+            val turnAngle = result.asList()[2].toString() + "°"
+            val otherTags = result.asList()[4].toString()
+            val dir = result.asList()[3].toString()
 
             // Display name, distance, and turn angle
             place_text.text = placeName
             dist_text.text = distance
-            turn_angle.text = turnAngle
+            turn_angle.text = "by " + turnAngle
+            dir_text.text = dir
 
             // Split other_tags by comma and display each property on a new line
             val formattedTags = otherTags.split(",").joinToString("\n") { it.trim() }
@@ -157,14 +168,14 @@ class FourthActivity : AppCompatActivity(), SensorEventListener, LocationListene
     }
 
     override fun onLocationChanged(location: Location) {
-        handleLocationUpdate()
+        handleLocationUpdate(location)
     }
 
     private fun angle_processOrientation(azimuth: Float) {
         val normalizedAzimuth = (azimuth + 360) % 360
         val roundedAzimuth = String.format("%.1f", normalizedAzimuth).toDouble()
         orientation_val = roundedAzimuth.toString()
-        azimuth_text.text = roundedAzimuth.toString()
+        azimuth_text.text = roundedAzimuth.toString() + "° anticlockwise w.r.t. North"
     }
 
     override fun onResume() {

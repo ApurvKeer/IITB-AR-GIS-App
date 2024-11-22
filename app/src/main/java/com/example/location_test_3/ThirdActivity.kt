@@ -35,7 +35,7 @@ import androidx.core.view.WindowInsetsCompat
 class ThirdActivity : AppCompatActivity(), SensorEventListener, LocationListener {
     private lateinit var latitude_text: TextView
     private lateinit var longitude_text: TextView
-    private lateinit var azimuth_text: TextView
+//    private lateinit var azimuth_text: TextView
     private lateinit var place_text: TextView
 
     private lateinit var sensorManager: SensorManager
@@ -80,13 +80,13 @@ class ThirdActivity : AppCompatActivity(), SensorEventListener, LocationListener
 
         latitude_text = findViewById(R.id.textView4)
         longitude_text = findViewById(R.id.textView3)
-        azimuth_text = findViewById(R.id.textView)
+//        azimuth_text = findViewById(R.id.textView)
         place_text = findViewById((R.id.textView5))
 
         // text2.setText("Hello")
         latitude_text.text = "Hello"
         longitude_text.text = "Hello"
-        azimuth_text.text = "Hello"
+//        azimuth_text.text = "Hello"
 
         val buttonBack = findViewById<Button>(R.id.button4)
         // Set an OnClickListener on the button
@@ -188,8 +188,17 @@ class ThirdActivity : AppCompatActivity(), SensorEventListener, LocationListener
 //        longitude_val = "72.9160"
 //        orientation_val = "45"
 
-        val result: PyObject = pythonModule.callAttr("get_place_in_view", latitude_val,longitude_val, orientation_val, "45", "500" )
-        place_text.text = result.toString()
+        val result: PyObject = pythonModule.callAttr("get_place_in_view", latitude_val, longitude_val, orientation_val, "45", "500" )
+        val placeName = result.asList()[0].toString()
+        val otherTags = result.asList()[2].toString()
+
+        // Display name, distance, and turn angle
+        place_text.text = placeName
+
+        // Split other_tags by comma and display each property on a new line
+        val formattedTags = otherTags.split(",").joinToString("\n") { it.trim() }
+        val otherTagsTextView: TextView = findViewById(R.id.textView13) // Assuming you have a TextView for other tags
+        otherTagsTextView.text = formattedTags
     }
 
     private fun angle_processOrientation(azimuth: Float) {
@@ -200,7 +209,7 @@ class ThirdActivity : AppCompatActivity(), SensorEventListener, LocationListener
         orientation_val = roundedAzimuth.toString()
 
         // Log or perform actions with the azimuthal angle
-        azimuth_text.setText(roundedAzimuth.toString())
+//        azimuth_text.setText(roundedAzimuth.toString())
     }
 
     // Orientation-related functions

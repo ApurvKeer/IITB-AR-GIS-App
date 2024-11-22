@@ -72,11 +72,11 @@ def get_place_in_view(lat, lon, orientation, fov, max_distance):
 
         # Check if bearing is within the field of view
         if abs((bearing - orientation + np.pi) % (2 * np.pi) - np.pi) <= fov_rad / 2:
-            matches.append((row['name'], distance))
+            matches.append((row['name'], distance, row['other_tags']))
 
     # Sort matches by distance and return the first one
     if matches:
         matches.sort(key=lambda x: x[1])  # Sort by distance
-        return matches[0][0]
+        return matches[0]
 
     return "No Match"
