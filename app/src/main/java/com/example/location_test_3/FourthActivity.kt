@@ -175,7 +175,7 @@ class FourthActivity : AppCompatActivity(), SensorEventListener, LocationListene
         val normalizedAzimuth = (azimuth + 360) % 360
         val roundedAzimuth = String.format("%.1f", normalizedAzimuth).toDouble()
         orientation_val = roundedAzimuth.toString()
-        azimuth_text.text = roundedAzimuth.toString() + "° anticlockwise w.r.t. North"
+        azimuth_text.text = roundedAzimuth.toString() + "° clockwise w.r.t. North"
     }
 
     override fun onResume() {
