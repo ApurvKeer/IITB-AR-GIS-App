@@ -1,0 +1,1035 @@
+osm_id,name,other_tags,latitude,longitude
+245673601,Chandan Nagar,,19.1217086,72.923203
+245674432,Paspoli Village,,19.1336235,72.8975934
+245674983,Peru Baug,,19.1391201,72.9048058
+245675316,Jamil Nagar,,19.1433206,72.9251908
+245675397,Ishwar Nagar,,19.139,72.9352
+245675466,Samarath Nagar,,19.1442447,72.9244247
+245675509,Dina Bama Estate,,19.1401586,72.9370703
+619992025,Kanjurmarg,"""internet_access""=>""no"",""name:hi""=>""कांजुरमार्ग"",""name:ml""=>""കാഞ്ജൂർമാർഗ്"",""network""=>""IR"",""operator""=>""CR"",""public_transport""=>""station"",""railway""=>""station"",""wikidata""=>""Q6363526"",""wikipedia""=>""en:Kanjurmarg railway station""",19.1296868,72.9283701
+620002682,Vikhroli,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1117831,72.9281186
+630673338,Thane,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1863556,72.9759
+630676214,Mulund,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1724905,72.9569688
+667354765,IIT Main Gate,"""access""=>""private""",19.1252159,72.9164566
+667392410,Jyotiba Phule Nagar,,19.1325956,72.9195901
+668478113,Hostel No. 5,"""tourism""=>""hostel""",19.1350214,72.9096978
+668478124,Hostel No. 4,"""tourism""=>""hostel""",19.1362829,72.9103031
+668478125,Hostel No. 2,"""tourism""=>""hostel""",19.1364536,72.9125695
+668478126,Hostel No. 3,"""tourism""=>""hostel""",19.1362317,72.9114868
+668478127,Hostel No. 1,"""tourism""=>""hostel""",19.1362571,72.9139938
+668494241,Convocation Hall,"""amenity""=>""theatre""",19.1319441,72.9143666
+668494244,Shailesh J Mehta Institute of Management,"""alt_name""=>""SOM & IRCC"",""amenity""=>""college"",""toilets:wheelchair""=>""no"",""wheelchair""=>""limited""",19.1317025,72.9157388
+668494246,LT-PCSA,"""amenity""=>""theatre"",""name:en""=>""PC Saxena Auditorium"",""toilets:wheelchair""=>""no"",""wheelchair""=>""yes""",19.1322817,72.9158301
+668504454,Hostel No. 10,"""tourism""=>""hostel""",19.1290631,72.9157813
+668506109,Hostel No. 11,"""tourism""=>""hostel""",19.1329296,72.9118107
+668506112,Hostel No. 8,"""toilets:wheelchair""=>""no"",""tourism""=>""hostel"",""wheelchair""=>""limited""",19.1335359,72.9108558
+668511950,IDC - Industrial Design Center,"""addr:city""=>""Mumbai"",""addr:housename""=>""Indian Institute of Technology Bombay"",""addr:suburb""=>""Powai"",""amenity""=>""college"",""website""=>""http://www.idc.iitb.ac.in/"",""wheelchair""=>""yes""",19.1333839,72.9171775
+668699201,Lake Side Gate,"""access""=>""private"",""motorcar""=>""yes"",""motorcycle""=>""yes""",19.1238971,72.9113718
+668708219,Admin Building,"""amenity""=>""college"",""toilets:wheelchair""=>""no"",""wheelchair""=>""yes""",19.1327013,72.9153012
+1185579351,Larsen & Toubro,,19.128396,72.89372
+1366054340,Vidya Vihar,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.0794239,72.8973128
+1367093217,Kurla Junction,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.065041,72.8791094
+1608381628,Guest House,"""tourism""=>""guest_house""",19.1297012,72.9147401
+1608381874,Gulmohar,"""amenity""=>""restaurant""",19.129793,72.9151419
+1640260042,Vikhroli East,,19.1172592,72.9355194
+1640273573,Bhandup West,,19.1462636,72.9339461
+1640273575,Kanjurmarg East,,19.1378308,72.9361964
+1640273576,Kanjurmarg West,,19.1281626,72.9260991
+1640461329,Tagore Nagar,,19.1196145,72.9343142
+1643352018,Mulund,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1723697,72.9570846
+1643352023,Mulund,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.172517,72.9569289
+1644081910,Chhatrapati Nagar,,19.1320512,72.9366078
+1644081911,Datar Colony,,19.1359152,72.9347944
+1646887494,Surya Nagar,,19.1190441,72.9234984
+1647133443,Thane,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1861975,72.9759502
+1647250933,Pipeline Road,"""access""=>""private""",19.1355525,72.901026
+1648244664,Tunga Village,,19.119371,72.8924338
+1651678056,Kanjur Gaon,"""name:en""=>""Kanjur Village""",19.133697,72.9381936
+1691717604,Empire Plaza,"""addr:street""=>""LBS Marg"",""building""=>""office""",19.1235964,72.9237521
+1691718310,Tata Consultancy Services Ltd. Empire Plaza,"""building""=>""office""",19.1234646,72.923795
+1855761130,Mantra,"""amenity""=>""restaurant"",""toilets:wheelchair""=>""no"",""wheelchair""=>""limited""",19.123761,72.9131305
+1855761135,Pizza Hut,"""amenity""=>""fast_food"",""cuisine""=>""pizza"",""toilets:wheelchair""=>""no"",""wheelchair""=>""no""",19.1235847,72.912496
+1855812192,Powai Dental Clinic,"""amenity""=>""hospital"",""emergency""=>""no""",19.1246531,72.9172844
+1855812193,State Bank of India,"""amenity""=>""bank"",""atm""=>""yes"",""brand:wikidata""=>""Q1340361"",""brand:wikipedia""=>""en:State Bank of India"",""short_name""=>""SBI""",19.1251505,72.9162941
+1855812194,Powai Hospital,"""addr:district""=>""Mumbai Suburban"",""addr:full""=>""1-A, BSNL Colony, Powai, Mumbai"",""addr:postcode""=>""400076"",""addr:state""=>""Maharastra"",""amenity""=>""hospital""",19.124088,72.9164511
+1855812196,South Indian Bank,"""amenity""=>""bank"",""atm""=>""yes""",19.1241767,72.9168507
+1855825021,Home Town,"""shop""=>""supermarket""",19.1204539,72.9263887
+1867631840,Residence Inn Powai,"""tourism""=>""hotel""",19.1346222,72.8987555
+2081722937,H12,"""bus""=>""yes"",""public_transport""=>""platform""",19.1355677,72.9055659
+2236679734,Maroshi Naka,"""junction""=>""yes""",19.1354361,72.8823258
+2313088123,State Bank of India,"""addr:city""=>""NITIE PO, Powai, Mumbai"",""addr:housename""=>""State Bank of India"",""addr:postcode""=>""400087"",""addr:street""=>""Vihar Lake Marg"",""amenity""=>""bank"",""atm""=>""yes"",""brand:wikidata""=>""Q1340361"",""brand:wikipedia""=>""en:State Bank of India"",""phone""=>""022-28575099"",""short_name""=>""SBI""",19.1352428,72.9005482
+2313090353,NITIE Post Office,"""amenity""=>""post_office"",""collection_times""=>""09:30-16:30"",""operator""=>""India Post""",19.1353745,72.9005147
+2313106108,Vihar Lake,"""operator""=>""BEST"",""shelter""=>""yes""",19.1397456,72.8982965
+2313110689,NITIE,"""operator""=>""BEST"",""shelter""=>""no""",19.1349868,72.8997985
+2313134564,Ramada Hotel,"""operator""=>""BEST"",""shelter""=>""no""",19.1365991,72.8993659
+2313139917,Ramada Powai Hotel & Convention Center,"""operator""=>""Ramada"",""tourism""=>""hotel"",""website""=>""https://ramadapowai.com/""",19.1359551,72.8990184
+2319202487,Dr. Babasaheb Ambedkar Udyan/Powai Gardens,"""bus""=>""yes"",""operator""=>""BEST"",""public_transport""=>""platform""",19.1256563,72.8948183
+2319202488,Dr. Babasaheb Ambedkar Udyan/Powai Gardens,"""bus""=>""yes"",""public_transport""=>""platform""",19.1256107,72.8945178
+2319202489,Dr. Babasaheb Ambedkar Udyan/Powai Gardens,"""bus""=>""yes"",""public_transport""=>""platform""",19.1258083,72.893563
+2319202490,Dr. Babasaheb Ambedkar Udyan/Powai Gardens,"""bus""=>""yes"",""operator""=>""BEST"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1271565,72.8944052
+2319206206,Indian Register of Shipping,"""addr:city""=>""Powai, Mumbai"",""addr:housename""=>""Indian Registrar of Shipping"",""addr:housenumber""=>""52 A"",""addr:postcode""=>""400072"",""addr:street""=>""Adi Shankaracharya Marg"",""office""=>""administrative"",""phone""=>""+91-22-30519400"",""website""=>""https://www.irclass.org/""",19.1234059,72.896905
+2322736998,Efkon India Pvt Ltd,,19.119889,72.9264519
+3213640906,New Swimming Pool,"""covered""=>""yes"",""designation""=>""New Swimming Pool"",""leisure""=>""swimming_pool"",""operator""=>""SAC"",""sport""=>""swimming""",19.13579,72.9127435
+3217772727,Security check,"""shop""=>""convenience""",19.1314047,72.9153569
+3248305759,Bhandup,"""internet_access""=>""no"",""name:hi""=>""भांडुप"",""name:ml""=>""ഭാണ്ഡുപ്പ്"",""network""=>""IR"",""operator""=>""CR"",""public_transport""=>""station"",""railway""=>""station"",""toilets:wheelchair""=>""no"",""wheelchair""=>""limited"",""wikidata""=>""Q4900992"",""wikipedia""=>""en:Bhandup railway station""",19.1438684,72.9384327
+3320239673,"TREELABS, N5-BAY",,19.1338705,72.9169284
+3518555133,munnar chawl,"""building""=>""house""",19.1389306,72.9239672
+3523224212,Kokan Nagar,,19.1462404,72.9289053
+3523229391,Bata store,"""shop""=>""shoes""",19.1260616,72.9177543
+3523245870,Supreme Infrastructure India Limited,,19.1257428,72.9176041
+3523251660,Monginis Cake,"""shop""=>""bakery""",19.1248609,72.9168933
+3542172075,vindu's house,"""building""=>""detached""",19.1180743,72.9172315
+3546166525,neptune tower,,19.1412018,72.9329172
+3546177010,aditi poojari,"""addr:city""=>""bhandup"",""addr:housenumber""=>""1 subhash rd."",""addr:postcode""=>""400 078"",""addr:street""=>""LBS Marg"",""building""=>""residential""",19.1457255,72.9308767
+3549111421,R.A.D.A.V COLLEGE BHANDUP (E),"""addr:city""=>""MUMBAI"",""addr:street""=>""DATAR COLONY"",""building""=>""college""",19.1386344,72.9355565
+3554023749,bharat petroleum,"""traffic_signals""=>""signal""",19.1423125,72.9326787
+3554037797,ishwar nagar stop,"""bus""=>""yes"",""public_transport""=>""platform""",19.1443582,72.9343821
+3554043837,Dena Bank,"""addr:city""=>""mumbai"",""addr:housenumber""=>""Dena bank"",""addr:postcode""=>""400078"",""addr:street""=>""Lal Bahadur Shastri Marg"",""amenity""=>""bank"",""branch""=>""unknown"",""brand:wikidata""=>""Q3595747"",""brand:wikipedia""=>""en:Dena Bank"",""name:en""=>""Dena Bank"",""opening_hours""=>""10:00-15:30"",""operator""=>""unknown"",""website""=>""http://www.denabank.com""",19.1445069,72.9342532
+3554048493,shiv prasad,"""amenity""=>""fast_food"",""cuisine""=>""fast_food""",19.1445626,72.934634
+3554052424,Nair classes,,19.1452316,72.9335129
+3554059493,Madras cafe,"""amenity""=>""restaurant"",""cuisine""=>""regional""",19.1454647,72.9352402
+3587131699,Anket Nursing Home,"""amenity""=>""hospital"",""emergency""=>""yes""",19.1308944,72.9299048
+3587142678,Nutan Nagar,,19.1301932,72.9359451
+3587151110,St.Francis Xaviers Church,"""amenity""=>""place_of_worship"",""religion""=>""christian""",19.1331785,72.9340804
+3587156841,Bharang Hotel,"""amenity""=>""restaurant""",19.1299442,72.9305834
+3587157576,Arogaya Hospital,,19.1360727,72.935824
+3588268363,aksherdham temple,"""amenity""=>""place_of_worship"",""religion""=>""buddhist""",19.1183661,72.9171953
+3602013974,Mama Mirashi nagar,"""building""=>""house""",19.1301871,72.9368502
+3602013981,vatsalya trust,"""building""=>""public""",19.1292096,72.937792
+3602053088,Hanuman Tekdi,"""alt_name""=>""Sameer Hill"",""natural""=>""peak""",19.1411884,72.9185329
+3602807360,India Post,,19.1188111,72.9341948
+3602820589,Guru Gobind English High School,"""amenity""=>""school""",19.122151,72.9345592
+3602843667,Jankalyan Sahakari bank,"""addr:street""=>""Eastern Expressway"",""amenity""=>""bank""",19.1173138,72.9366231
+3602868335,State Bank of India,"""amenity""=>""bank"",""brand:wikidata""=>""Q1340361"",""brand:wikipedia""=>""en:State Bank of India"",""short_name""=>""SBI""",19.120212,72.9386605
+3602876220,Vikhroli Police Station,"""amenity""=>""police""",19.1187189,72.9373252
+3602878176,MEHMAN NAWAZI,"""amenity""=>""restaurant""",19.1112209,72.9088668
+3680461765,Farid Nagar,"""addr:city""=>""Mumbai"",""addr:place""=>""Bhandup West""",19.1395152,72.923434
+4008815042,Nahur,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1541774,72.946473
+4010213288,Kanjurmarg,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1285976,72.9282208
+4228622740,Hostel-9 Canteen,"""addr:city""=>""Mumbai"",""addr:postcode""=>""400076"",""addr:street""=>""Main Gate Road"",""amenity""=>""restaurant"",""capacity""=>""20"",""smoking""=>""no"",""takeaway""=>""no""",19.135783,72.9084012
+4237027990,Amrut ,"""amenity""=>""restaurant"",""cuisine""=>""indian""",19.1351491,72.9001151
+4258411009,Vikhroli,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1117623,72.9283198
+4258411011,Vikhroli,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1117773,72.9281555
+4258411016,Vikhroli,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1117613,72.9282893
+4258411017,Vikhroli,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1117516,72.9284479
+4340764272,Dosti Aurum Grande Gate,,19.1291396,72.9311786
+4489847591,Stay In Service Apartments,"""addr:city""=>""Bandra East, Mumbai"",""addr:housenumber""=>""1st Floor"",""addr:postcode""=>""400051"",""addr:street""=>""Shivtirth Co Operative Housing Society Ltd, Madhukar Kalekar Road"",""phone""=>""22-38596061""",19.1294576,72.8916971
+4624037656,Bhandup St (W),"""bus""=>""yes"",""public_transport""=>""platform""",19.1453133,72.9351741
+4624037657,Janata Market Bhandup,"""bus""=>""yes"",""public_transport""=>""platform""",19.1424705,72.9327314
+4624037658,Mangatram Petrol Pump,"""bus""=>""yes"",""public_transport""=>""platform""",19.1390033,72.9306815
+4624037659,Birla Company,"""bus""=>""yes"",""public_transport""=>""platform""",19.1351758,72.9288394
+4624037660,Dockyard kanjurmarg St,"""bus""=>""yes"",""public_transport""=>""platform""",19.1321315,72.9272826
+4624037661,Huma Talkies,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""yes""",19.129266,72.9256346
+4624037663,Gandhi Nagar Vikhroli,"""bus""=>""yes"",""public_transport""=>""platform""",19.1244444,72.925197
+4624037664,Hindustan Company,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1218576,72.925386
+4624037670,Paper Mill,"""bus""=>""yes"",""public_transport""=>""platform""",19.1177512,72.9259916
+4625570574,Bhandup Station (W),"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1453065,72.935179
+4625570581,Dockyard kanjurmarg St,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1321171,72.9273332
+4625570582,Gandhi Nagar Vikhroli,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1244467,72.9252165
+4625570585,Hindustan Company,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1218513,72.925423
+4625570586,Huma Talkies,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1288065,72.9255023
+4625570587,Janata Market Bhandup,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1424215,72.9327768
+4625570689,Mangatram Petrol Pump,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1389677,72.9307625
+4625570693,Paper Mill,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1177519,72.9259945
+4642960966,new gymkhana building side gate,"""name:en""=>""new gymkhana building side gate""",19.1335836,72.9121037
+4644026856,Bhandup St (W),"""bus""=>""yes"",""public_transport""=>""platform""",19.145301,72.9351863
+4644026857,Janata Market Bhandup,"""bus""=>""yes"",""public_transport""=>""platform""",19.1426606,72.9331656
+4644026858,Mangatram Petrol Pump,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1389303,72.9309163
+4644026859,Birla Company,"""bus""=>""yes"",""public_transport""=>""platform""",19.1337642,72.9285765
+4644026860,Dockyard kanjurmarg St,"""bus""=>""yes"",""public_transport""=>""platform""",19.1320996,72.9273654
+4644026863,Huma Talkies,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1292671,72.9258134
+4644026865,Gandhi Nagar Vikhroli,"""bus""=>""yes"",""public_transport""=>""platform""",19.1244546,72.9253123
+4644026866,Gandhi Nagar Vikhroli,"""bus""=>""yes"",""public_transport""=>""platform""",19.1244472,72.9253469
+4644026868,Hindustan Company,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1222459,72.925463
+4644026869,Hindustan Company,"""bus""=>""yes"",""public_transport""=>""platform""",19.1222469,72.9254849
+4644026872,Paper Mill,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1177514,72.9261443
+4644026873,Paper Mill,"""bus""=>""yes"",""public_transport""=>""platform""",19.1177524,72.9261248
+4676916067,Huma Talkies,"""bus""=>""yes"",""public_transport""=>""stop_position""",19.1292547,72.9256798
+4759418251,Powai,"""wikidata""=>""Q13118508"",""wikimedia_commons""=>""Category:Powai"",""wikipedia""=>""en:Powai""",19.1187195,72.9073476
+4761353926,Gandhi Nagar,"""bus""=>""yes"",""name:en""=>""Gandhi Nagar"",""public_transport""=>""platform"",""shelter""=>""no""",19.1249376,72.9258496
+4761353928,Bhandup Station (W),"""bus""=>""yes"",""name:en""=>""Bhandup Station West"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1461008,72.935759
+4761368322,Fabindia,"""addr:city""=>""Mumbai"",""addr:postcode""=>""400076"",""addr:street""=>""Orchard Avenue"",""clothes""=>""women;men"",""name:en""=>""Fabindia"",""organic""=>""yes"",""payment:cash""=>""yes"",""payment:debit_cards""=>""yes"",""shop""=>""clothes"",""website""=>""https://www.fabindia.com/""",19.119637,72.9080062
+4761370027,Birla Company,"""bus""=>""yes"",""name:en""=>""Birla Company"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1364578,72.9296803
+4878938456,Hostel 16 C Wing,"""tourism""=>""hostel""",19.137742,72.9131065
+4883760577,Chinmaya Store,"""shop""=>""books""",19.1322932,72.898462
+5071072236,W1,"""amenity""=>""drinking_water"",""description""=>""Drinking water at library""",19.1341689,72.9151594
+5071072237,W2,"""amenity""=>""drinking_water"",""description""=>""Drinking water at reading room above library""",19.1341938,72.9149339
+5071228026,Hostel 16 stand,"""amenity""=>""waste_basket"",""description""=>""Non frequent auto stand""",19.1375462,72.912789
+5071231195,Fixed,"""description""=>""19.130398, 72.915432""",19.130398,72.915432
+5071254768,Third gate stand,"""description""=>""Non frequent auto stand""",19.124891,72.9114801
+5071266098,Hostel 12 stand,"""amenity""=>""waste_basket"",""description""=>""3-6 Autos""",19.1355342,72.9057401
+5072048064,LC Inside Place,"""amenity""=>""bench"",""capacity""=>""40"",""covered""=>""yes""",19.130608,72.916533
+5072048065,Kreset,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.13062,72.915661
+5072048066,Gymkhana Stairs,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""no""",19.135271,72.911678
+5072048067,Drain Wall,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.12549,72.913106
+5072048068,Guest House Lakefront,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""no""",19.129091,72.913808
+5072048069,Rain Shelter,"""amenity""=>""bench"",""capacity""=>""5"",""covered""=>""yes""",19.135454,72.905788
+5072048071,SOM Well,"""amenity""=>""bench"",""capacity""=>""50"",""covered""=>""yes""",19.1319397,72.9157255
+5072048072,Drain Wall,"""amenity""=>""bench"",""capacity""=>""5"",""covered""=>""no""",19.133091,72.913629
+5072048073,Drain Wall,"""amenity""=>""bench"",""covered""=>""no"",""seats""=>""2""",19.136158,72.910609
+5072048074,Drain Wall,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.135898,72.914591
+5072048075,Football Bench,"""amenity""=>""bench"",""capacity""=>""30"",""covered""=>""no""",19.134147,72.91142
+5072048077,Gymkhana Stairs,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""no""",19.135271,72.912427
+5072048078,SAC,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""no""",19.134764,72.913459
+5072048081,H10,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""no""",19.129522,72.915699
+5072048082,Drain Wall,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.135881,72.914698
+5072048083,Drain Wall,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.136053,72.910609
+5072048084,Amul Canteen,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""yes""",19.135043,72.905653
+5072048085,Two Stools,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.132161,72.915045
+5072048087,Temple,"""amenity""=>""bench"",""capacity""=>""10"",""covered""=>""no""",19.126129,72.909027
+5072048088,Open Bench H12,"""amenity""=>""bench"",""covered""=>""no"",""seats""=>""2""",19.135225,72.904015
+5072048090,Kresit,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.130486,72.915688
+5072048091,LC Entrance,"""amenity""=>""bench"",""capacity""=>""10"",""covered""=>""no""",19.13057,72.917148
+5072048092,Tiled Benches,"""amenity""=>""bench"",""backrest""=>""yes"",""capacity""=>""2"",""covered""=>""no""",19.130721,72.915458
+5072048093,Drain Wall,"""amenity""=>""bench"",""capacity""=>""5"",""covered""=>""no""",19.128586,72.915492
+5072048094,Drain Wall,"""amenity""=>""bench"",""capacity""=>""5"",""covered""=>""no""",19.134475,72.910271
+5072048095,Boathouse,"""amenity""=>""bench"",""capacity""=>""10"",""covered""=>""yes""",19.1299369,72.9103173
+5072048096,Main Building,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.132491,72.915586
+5072048097,Drain Wall,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.136089,72.912227
+5072048098,Open Bench H12,"""amenity""=>""bench"",""covered""=>""no"",""seats""=>""2""",19.134605,72.904024
+5072048099,KreSIT Benches,"""amenity""=>""bench"",""capacity""=>""10"",""covered""=>""no""",19.130329,72.91579
+5072048100,Drain Wall,"""amenity""=>""bench"",""capacity""=>""4"",""covered""=>""no""",19.135993,72.912233
+5072048102,SAC,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""no""",19.134803,72.913737
+5072048103,Lake Sitting Spot,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.12693,72.913942
+5072048104,Main Building,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.132512,72.915827
+5072048105,Open Bench H12,"""amenity""=>""bench"",""covered""=>""no"",""seats""=>""2""",19.135205,72.90385
+5072048106,Bamboo Studio,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""yes""",19.133499,72.9173
+5072048107,SAC,"""amenity""=>""bench"",""capacity""=>""50"",""covered""=>""no""",19.135188,72.913431
+5072048108,Drain Wall,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.134517,72.910181
+5072048109,Main Building,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.1325,72.9157
+5072048110,LC Entrance,"""amenity""=>""bench"",""capacity""=>""10"",""covered""=>""no""",19.130961,72.917124
+5072048111,Canara Bank,"""amenity""=>""bench"",""brand""=>""Canara Bank"",""brand:pa""=>""ਕੇਨਰਾ ਬੈਂਕ"",""brand:ur""=>""کینرا بینک"",""brand:wikidata""=>""Q2003777"",""brand:wikipedia""=>""en:Canara Bank"",""brand:wikipedia:pa""=>""ਕੇਨਰਾ ਬੈਂਕ"",""capacity""=>""6"",""covered""=>""yes"",""name:pa""=>""ਕੇਨਰਾ ਬੈਂਕ"",""name:ur""=>""کینرا بینک""",19.130009,72.915318
+5072048112,Cricket Bench,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""yes""",19.134005,72.911999
+5072048113,Guest House Stairs,"""amenity""=>""bench"",""capacity""=>""20"",""covered""=>""no""",19.1291,72.914018
+5072048114,Open Bench H13,"""amenity""=>""bench"",""capacity""=>""2"",""covered""=>""no""",19.134212,72.904765
+5072048115,Basketball bench,"""amenity""=>""bench"",""capacity""=>""30"",""covered""=>""no""",19.133721,72.912821
+5072048116,SAC,"""amenity""=>""bench"",""capacity""=>""50"",""covered""=>""no""",19.135156,72.91359
+5072176389,KreSit Parking,"""amenity""=>""bicycle_parking""",19.1305686,72.915936
+5072176390,KreSit Parking,"""amenity""=>""bicycle_parking""",19.1306232,72.9158461
+5072774122,W3,"""amenity""=>""drinking_water"",""description""=>""Drinking water at Mathematics department""",19.1338809,72.9158031
+5072774123,W4,"""amenity""=>""drinking_water"",""description""=>""Drinking water at  Mathematics department""",19.1338786,72.915766
+5072774124,W5,"""amenity""=>""drinking_water"",""description""=>""Drinking water at old CSE building""",19.134205,72.916272
+5072774125,W6,"""amenity""=>""drinking_water"",""description""=>""Drinking water at fluid mechanics lab""",19.1341672,72.9166123
+5072774126,W7,"""amenity""=>""drinking_water""",19.1339382,72.9169604
+5072774127,W8,"""amenity""=>""drinking_water""",19.1340607,72.9176878
+5072774129,W10,"""amenity""=>""drinking_water""",19.1333159,72.9172386
+5072774130,W11,"""amenity""=>""water_point""",19.1334581,72.916465
+5072774131,W12,"""amenity""=>""drinking_water""",19.1331923,72.9153236
+5072774132,W13,"""amenity""=>""drinking_water""",19.1327455,72.9164826
+5072774133,W14,"""amenity""=>""drinking_water""",19.1324003,72.9175079
+5072774134,W15,"""amenity""=>""drinking_water""",19.1319778,72.9164895
+5072774135,W16,"""amenity""=>""drinking_water"",""description""=>""Drinking water at Electrical annex""",19.1319739,72.9173006
+5072774136,W17,"""amenity""=>""drinking_water"",""description""=>""Drinking water at  at CSRE""",19.1321141,72.9176055
+5072774137,W18,"""amenity""=>""drinking_water"",""description""=>""Drinking water at SINE""",19.1321103,72.9176502
+5072774138,W19,"""amenity""=>""drinking_water""",19.1312433,72.9165714
+5072774139,W20,"""amenity""=>""drinking_water"",""description""=>""Drinking water at  earth sciences""",19.1316397,72.9176403
+5072774140,W21,"""amenity""=>""drinking_water""",19.1312942,72.9176942
+5072774141,W22,"""amenity""=>""drinking_water""",19.1309494,72.9173515
+5072774142,W23,"""amenity""=>""drinking_water""",19.1308425,72.9165428
+5072774143,W27,"""amenity""=>""drinking_water""",19.1305959,72.9158759
+5072774144,W24,"""amenity""=>""drinking_water""",19.1303492,72.9165058
+5072774145,W25,"""amenity""=>""drinking_water""",19.1304034,72.9176769
+5072774146,W26,"""amenity""=>""drinking_water""",19.1304878,72.9182642
+5074680216,Point 96,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1323426,72.9171583
+5074680217,Point 95,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1326467,72.9171315
+5074680218,Point 94,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1328507,72.9173548
+5074680219,Point 93,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1320771,72.9141743
+5074680220,Point 92,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1317743,72.9140912
+5074684421,Point 91,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1317528,72.9144285
+5074684422,Point 90,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1318326,72.9146156
+5074684423,Point 89,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1319884,72.9147041
+5074684424,Point 88,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1322108,72.9145472
+5074684425,Point 87,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1322241,72.9145418
+5074684426,Point 86,"""description""=>""Type 3"",""emergency""=>""fire_hydrant""",19.1336489,72.9169263
+5074684427,Point 85,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1328443,72.9171757
+5074684428,Point 84,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1322501,72.9172254
+5074684429,Point 83,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1323248,72.9176264
+5074684430,Point 82,"""description""=>""Type 4"",""emergency""=>""fire_hydrant""",19.132869,72.9175613
+5074684431,Point 81,"""description""=>""Type 4"",""emergency""=>""fire_hydrant""",19.1329425,72.9175553
+5074684432,Point 80,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1380694,72.9165555
+5074684433,Point 79,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1381537,72.9162604
+5074684434,Point 78,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1381189,72.9159647
+5074684435,Point 77,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1381398,72.9156777
+5074684436,Point 76,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1379662,72.9159466
+5074684437,Point 75,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1378515,72.9162008
+5074684438,Point 74,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1386358,72.9164241
+5074684439,Point 73,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.138504,72.9167446
+5074684440,Point 72,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1382494,72.9166205
+5074684441,Point 71,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1383634,72.9162926
+5074684442,Point 70,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1328481,72.9190841
+5074684443,Point 69,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1332865,72.9190654
+5074684444,Point 68,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1290457,72.9160378
+5074684445,Point 67,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1285953,72.9160204
+5074684446,Point 66,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1283292,72.9160056
+5074684447,Point 65,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1283501,72.915614
+5074684448,Point 64,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1286625,72.9155611
+5074684449,Point 63,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1290242,72.9155724
+5074684450,Point 62,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1292345,72.9155738
+5074684451,Point 61,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1294081,72.9159875
+5074684452,Point 60,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1294145,72.9157159
+5074684453,Point 59,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1312346,72.9160465
+5074684454,Point 58,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1313042,72.9158588
+5074684455,Point 57,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.131284,72.9156817
+5074684456,Point 56,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.130819,72.9160465
+5074684457,Point 55,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1307607,72.915948
+5074684458,Point 54,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1307474,72.9157602
+5074684459,Point 53,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1308836,72.9155624
+5074684460,Point 52,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1310382,72.9156824
+5074684461,Point 51,"""description""=>""Type 3"",""emergency""=>""fire_hydrant""",19.1319884,72.915775
+5074684462,Point 50,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1318608,72.9159332
+5074684463,Point 49,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.131614,72.915846
+5074684464,Point 48,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1314845,72.9157548
+5074684465,Point 47,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1314756,72.9155765
+5074684466,Point 46,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1338174,72.9122163
+5074684467,Point 45,"""description""=>""Type 3"",""emergency""=>""fire_hydrant""",19.1339831,72.9116125
+5074684468,Point 44,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1337296,72.9120417
+5074684469,Point 43,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1337338,72.9120259
+5074684470,Point 42,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1338088,72.9118107
+5074684471,Point 40,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1360752,72.9054049
+5074684473,Point 38,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1353264,72.9120031
+5074684474,Point 37,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1353353,72.9116155
+5074684475,Point 36,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.135379,72.911346
+5074684476,Point 35,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1356805,72.9109094
+5074684477,Point 34,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.135773,72.9105567
+5074684478,Point 33,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.135875,72.9106942
+5074684479,Point 32,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.135856,72.9113232
+5074684480,Point 31,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1358503,72.9117128
+5074684481,Point 30,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1358383,72.9121231
+5074684482,Point 29,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1357141,72.9127682
+5074684483,Point 28,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1354677,72.9127427
+5074684484,Point 27,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1353118,72.912563
+5074684485,Point 26,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.135353,72.9123323
+5074684486,Point 25,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1355443,72.9122639
+5074684487,Point 24,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1357141,72.9122733
+5074684488,Point 23,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.135863,72.9123216
+5074684489,Point 22,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1358655,72.9125972
+5074684490,Point 21,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1358642,72.9126267
+5074684491,Point 20,"""description""=>""Type 3"",""emergency""=>""fire_hydrant""",19.1374283,72.9143286
+5074684492,Point 19,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1377514,72.9144372
+5074684493,Point 18,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1380834,72.9142917
+5074684494,Point 17,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1383811,72.9143789
+5074684495,Point 16,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1383729,72.9139604
+5074684496,Point 15,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1381581,72.9136741
+5074684497,Point 14,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1377863,72.9136775
+5074684498,Point 13,"""description""=>""Type 3"",""emergency""=>""fire_hydrant""",19.1375132,72.9137043
+5074684499,Point 12,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1372852,72.9135957
+5074684500,Point 11,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1381955,72.9133603
+5074684501,Point 10,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1377293,72.9133402
+5074684502,Point 9,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1374803,72.9129888
+5074684503,Point 8,"""description""=>""Type 2"",""emergency""=>""fire_hydrant""",19.1375905,72.9126522
+5074684504,Point 7,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1378655,72.9124383
+5074684505,Point 6,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1380542,72.912445
+5074684506,Point 5,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1382259,72.9125791
+5074684507,Point 4,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1383178,72.9127984
+5074684508,Point 3,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1384179,72.9129539
+5074684509,Point 2,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1384736,72.9131229
+5074684510,Point 1,"""description""=>""Type 1"",""emergency""=>""fire_hydrant""",19.1383894,72.9132993
+5076477319,Sanjay Gandhi National Park Thane Entry,"""name:mr""=>""संजय गांधी नॅशनल पार्क ठाणे एन्ट्री""",19.2372561,72.9642122
+5077114707,H6 Store,"""service:copy""=>""yes"",""service:print""=>""no"",""shop""=>""convenience""",19.1357084,72.9073689
+5077114708,H13 Store,"""service:print""=>""No"",""shop""=>""convenience""",19.1345656,72.9047792
+5077428235,Main Building Print Shop,"""description:service:print""=>""A4, A3 Coloured"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""department_store""",19.1333013,72.9153079
+5077428236,H3 Print Shop,"""description""=>""Print A4"",""opening_hours""=>""10:00 - 22:00"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.1365443,72.9113094
+5077428237,H5 Print Shop (Print House),"""description""=>""Print (A4, A3 Coloured)"",""service:print""=>""yes"",""shop""=>""convenience""",19.1350806,72.9100629
+5077428238,H4 Print Shop,"""opening_hours""=>""09:30 - 22:30"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.1366058,72.9101296
+5077430105,H9 Print Shop,"""description:service:print""=>""A4"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.1355293,72.9087226
+5077430106,H8 Print Shop,"""description""=>""Print (A4, A3 Coloured)"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.1336359,72.9110419
+5077430107,H1 Print Shop,"""description""=>""Print (A4, A3 Coloured)"",""opening_hours""=>""10:00 - 22:00"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.1361347,72.9137613
+5077430108,H15 Print Shop,"""description:service:print""=>""A4 Coloured, A3 B&W"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""convenience""",19.1382303,72.9139262
+5077430109,H16 Print Shop,"""description:service:print""=>""A4 Coloured, A3 B&W"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""convenience""",19.1376494,72.9132242
+5077430110,H2 Print Shop,"""description""=>""Print Yes (A4, A3 Coloured)"",""opening_hours""=>""10:00 - 23:30"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.1363362,72.9122361
+5077430111,H-15 General Store,"""service:copy""=>""no"",""service:print""=>""no"",""shop""=>""convenience""",19.1376621,72.9144007
+5077600661,Guard 52: ACRE (SYSCON),"""barrier:personnel""=>""yes""",19.1351617,72.9154685
+5077600663,Guard 50: TCS Area/ Aerospace,"""barrier:personnel""=>""yes"",""description""=>""Box on the turn""",19.1319067,72.9187515
+5077600664,Guard 49: SINE,"""barrier:personnel""=>""yes""",19.1321741,72.9178315
+5077600665,Guard 48: Monash Reception,"""barrier:personnel""=>""yes""",19.1330103,72.9189688
+5077600666,Guard 47: H9,"""barrier:personnel""=>""yes""",19.135598,72.9084277
+5077600668,Guard 45: H14,"""barrier:personnel""=>""yes""",19.1348132,72.9057513
+5077600669,Guard 44: H13,"""barrier:personnel""=>""yes""",19.1347867,72.9048818
+5077600670,Guard 43: H12,"""barrier:personnel""=>""yes""",19.1351896,72.9049248
+5077600671,Guard 42: H11,"""barrier:personnel""=>""yes""",19.1332485,72.9119521
+5077600672,Guard 41: H8,"""barrier:personnel""=>""yes""",19.1337452,72.911067
+5077600673,Guard 40: H5,"""barrier:personnel""=>""yes""",19.1353555,72.9097809
+5077600674,Guard 39: Tansa House,"""barrier:personnel""=>""yes""",19.1359295,72.9098265
+5077600675,Guard 38: H4,"""barrier:personnel""=>""yes""",19.136359,72.9101108
+5077600676,Guard 37: H3,"""barrier:personnel""=>""yes""",19.1362589,72.9114506
+5077600677,Guard 36: H2,"""barrier:personnel""=>""yes""",19.1364325,72.9125315
+5077600678,Guard 35: H1,"""barrier:personnel""=>""yes""",19.1360879,72.9138954
+5077600679,Guard 34,"""barrier:personnel""=>""yes""",19.1377793,72.9128212
+5077600680,Guard 33,"""barrier:personnel""=>""yes""",19.1375132,72.9131913
+5077600681,Guard 32,"""barrier:personnel""=>""yes""",19.1382962,72.9132128
+5077600682,Guard 31: H15 A wing,"""barrier:personnel""=>""yes""",19.1381062,72.9140738
+5077600683,Guard 30: H15 C wing,"""barrier:personnel""=>""yes""",19.1377033,72.914283
+5077600684,Guard 29: H15 B wing,"""barrier:personnel""=>""yes""",19.1375158,72.914063
+5077600685,Guard 28: Quick response team,"""barrier:personnel""=>""yes""",19.1332954,72.9150903
+5077600686,Guard 27: Quick response team,"""barrier:personnel""=>""yes""",19.1333118,72.9150984
+5077600687,Guard 26: Patrol Duty,"""barrier:personnel""=>""yes""",19.133303,72.9150608
+5077600688,Guard 25: CC Building,"""barrier:personnel""=>""yes""",19.1310021,72.9156147
+5077600689,Guard 24: Patrol Duty,"""barrier:personnel""=>""yes""",19.129341,72.9158092
+5077600690,Guard 23: H10,"""barrier:personnel""=>""yes""",19.1293182,72.9158427
+5077600691,Guard 22: IDC,"""barrier:personnel""=>""yes""",19.1332612,72.9172495
+5077600692,Guard 21: VMCC,"""barrier:personnel""=>""yes""",19.132501,72.9173112
+5077600693,Guard 20: IIT Hospital,"""barrier:personnel""=>""yes""",19.1307778,72.91435
+5077600694,Guard 19: Main Building;Guard 18: Main Building,"""barrier:personnel""=>""yes"",""description""=>""Looks after parking;Checks Entry/Exit""",19.1324685,72.9148833
+5077600696,Guard 17: SOM,"""barrier:personnel""=>""yes""",19.1315,72.9154256
+5077600697,Guard 16: Director's bungalow,"""barrier:personnel""=>""yes""",19.1279877,72.9151762
+5077600698,Guard 15: Lakeside gate,"""barrier:personnel""=>""yes""",19.1239736,72.91124
+5077600699,Guard 14: Lakeside gate,"""barrier:personnel""=>""yes""",19.1239863,72.9112387
+5077600700,Guard 13: YP gate,"""barrier:personnel""=>""yes"",""description""=>""Checks Car entry""",19.1283577,72.9191914
+5077600701,Guard 12: YP gate,"""barrier:personnel""=>""yes"",""description""=>""Checks Car entry""",19.1283577,72.9191914
+5077600702,Guard 11: YP gate,"""barrier:personnel""=>""yes"",""description""=>""Checks Car exit""",19.1283843,72.9191941
+5077600703,Guard 10: YP gate,"""barrier:personnel""=>""yes"",""description""=>""Checks Car exit""",19.1283793,72.9191834
+5077600704,Guard 9: YP gate,"""barrier:personnel""=>""yes"",""description""=>""Checks person's ID cards while pedestrian entry""",19.1283793,72.9192236
+5077600705,Inspector 4: Main Gate Exit,"""barrier:personnel""=>""yes""",19.1255752,72.9164824
+5077600706,Inspector 3: Main Gate Exit,"""barrier:personnel""=>""yes""",19.1255752,72.9164824
+5077600707,Guard 8: Main Gate Exit,"""barrier:personnel""=>""yes"",""description""=>""Inspects people as they leave""",19.1256069,72.9164704
+5077600708,Guard 7: Main Gate Exit Box,"""barrier:personnel""=>""yes"",""description""=>""Checks Vehicles as they leave""",19.1255905,72.9163966
+5077600709,Guard 6: Main Gate Exit Box,"""barrier:personnel""=>""yes"",""description""=>""Checks Vehicles as they leave""",19.1255981,72.9163858
+5077600710,Inspector 2: Main Gate Entry,"""barrier:personnel""=>""yes"",""description""=>""Coordinates Security""",19.1255512,72.9163027
+5077600711,Inspector 1: Main Gate Entry,"""barrier:personnel""=>""yes"",""description""=>""Coordinates Security""",19.1255626,72.916296
+5077600712,Guard 5: Main Gate Entry,"""barrier:personnel""=>""yes"",""description""=>""Checks ID""",19.1255689,72.916308
+5077600713,Guard 4: Main Gate Entry,"""barrier:personnel""=>""yes"",""description""=>""Checks ID""",19.1255689,72.916308
+5077600714,Guard 3: Main Gate Entry,"""barrier:personnel""=>""yes"",""description""=>""Near metal detector""",19.1254967,72.9163483
+5077600715,Guard 2: Main Gate Entry,"""barrier:personnel""=>""yes"",""description""=>""Incoming vehicle check""",19.1255499,72.9163375
+5077600716,Guard 1: Main Gate Entry,"""barrier:personnel""=>""yes"",""description""=>""Incoming vehicle check""",19.1255499,72.9163375
+5077612632,Movable,"""amenity""=>""waste_basket"",""description""=>""19.132029, 72.917137"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.132029,72.917137
+5077612633,Movable,"""amenity""=>""waste_basket"",""description""=>""19.131459, 72.917080"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.131459,72.91708
+5077612634,Movable,"""amenity""=>""waste_basket"",""description""=>""19.133594, 72.905674"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133594,72.905674
+5077612635,Movable,"""amenity""=>""waste_basket"",""description""=>""19.133716, 72.905713"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133716,72.905713
+5077612636,Movable,"""amenity""=>""waste_basket"",""description""=>""19.133928, 72.905829"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133928,72.905829
+5077612637,Movable,"""amenity""=>""waste_basket"",""description""=>""19.134010, 72.906604"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.13401,72.906604
+5077612638,Movable,"""amenity""=>""waste_basket"",""description""=>""19.134277, 72.906680"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134277,72.90668
+5077612639,Movable,"""amenity""=>""waste_basket"",""description""=>""19.134763, 72.906701"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134763,72.906701
+5077612640,Movable,"""amenity""=>""waste_basket"",""description""=>""19.135044, 72.906748"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135044,72.906748
+5077612641,Movable,"""amenity""=>""waste_basket"",""description""=>""19.134565, 72.909203"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134565,72.909203
+5077612642,Movable,"""amenity""=>""waste_basket"",""description""=>""19.134427, 72.909532"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134427,72.909532
+5077612643,Movable,"""amenity""=>""waste_basket"",""description""=>""19.136191, 72.917058"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.136191,72.917058
+5077612644,Movable,"""amenity""=>""waste_basket"",""description""=>""19.137720, 72.912485"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.13772,72.912485
+5077612646,Movable,"""amenity""=>""waste_basket"",""description""=>""19.137347, 72.914355"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.137347,72.914355
+5077612647,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129996, 72.917143"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.1300416,72.9170813
+5077612648,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135587, 72.917978"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135587,72.917978
+5077612649,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134350, 72.918365"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.13435,72.918365
+5077612650,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133369, 72.918500"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133369,72.9185
+5077612651,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133044, 72.917904"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133044,72.917904
+5077612652,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131810, 72.916024"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.13181,72.916024
+5077612653,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.132498, 72.916016"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.132498,72.916016
+5077612654,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.132466, 72.915950"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.132466,72.91595
+5077612655,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134326, 72.914410"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134326,72.91441
+5077612656,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133342, 72.912855"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133342,72.912855
+5077612657,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133596, 72.912135"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133596,72.912135
+5077612658,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133581, 72.911919"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133581,72.911919
+5077612659,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133728, 72.911765"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133728,72.911765
+5077612660,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133805, 72.911298"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133805,72.911298
+5077612661,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133930, 72.911185"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.13393,72.911185
+5077612662,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134034, 72.910608"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134034,72.910608
+5077612663,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134203, 72.910423"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134203,72.910423
+5077612664,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134191, 72.910160"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134191,72.91016
+5077612665,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135048, 72.904899"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135048,72.904899
+5077612667,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135106, 72.905277"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135106,72.905277
+5077612668,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135406, 72.905644"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135406,72.905644
+5077612669,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135409, 72.905938"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135409,72.905938
+5077612670,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135362, 72.906129"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135362,72.906129
+5077612671,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135219, 72.906870"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135219,72.90687
+5077612672,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135178, 72.907616"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135178,72.907616
+5077612673,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135016, 72.907856"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135016,72.907856
+5077612674,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134696, 72.908814"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134696,72.908814
+5077612675,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134348, 72.910116"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134348,72.910116
+5077612676,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134721, 72.910292"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134721,72.910292
+5077612677,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135019, 72.910244"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135019,72.910244
+5077612678,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135608, 72.910400"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135608,72.9104
+5077612679,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.136195, 72.910499"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.136195,72.910499
+5077612680,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.136067, 72.911508"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.136067,72.911508
+5077612681,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135984, 72.912634"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135984,72.912634
+5077612682,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135873, 72.913296"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135873,72.913296
+5077612683,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135713, 72.914292"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.1359107,72.9143376
+5077612684,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.136012, 72.913838"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.136012,72.913838
+5077612685,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.137598, 72.914986"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.137598,72.914986
+5077612686,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.137345, 72.914166"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.137345,72.914166
+5077612687,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.137024, 72.914892"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.137024,72.914892
+5077612688,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.136514, 72.914770"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.136514,72.91477
+5077612689,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.135945, 72.914621"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135945,72.914621
+5077612690,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134681, 72.914220"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134681,72.91422
+5077612691,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.134067, 72.914154"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.134067,72.914154
+5077612692,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.133152, 72.913735"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.133152,72.913735
+5077612693,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.132986, 72.913623"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.132986,72.913623
+5077612694,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.132576, 72.914633"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.132576,72.914633
+5077612696,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.132148, 72.914946"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.132148,72.914946
+5077612697,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131727, 72.915162"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.131727,72.915162
+5077612698,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131732, 72.915368"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.131732,72.915368
+5077612699,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131511, 72.915367"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.131511,72.915367
+5077612700,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131251, 72.915358"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.131251,72.915358
+5077612701,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.130743, 72.915287"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.130743,72.915287
+5077612703,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.130201, 72.915332"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.130201,72.915332
+5077612704,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129925, 72.915349"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129925,72.915349
+5077612705,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.132303, 72.917995"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.132303,72.9179414
+5077612706,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131938, 72.918196"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.131938,72.918196
+5077612707,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131740, 72.918850"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.13174,72.91885
+5077612708,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.131651, 72.918818"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.131651,72.918818
+5077612709,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.130780, 72.918895"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.13078,72.918895
+5077612710,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129939, 72.918946"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129939,72.918946
+5077612711,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129675, 72.919043"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129675,72.919043
+5077612712,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129266, 72.919076"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129266,72.919076
+5077612713,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128974, 72.919152"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128974,72.919152
+5077612714,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128673, 72.919083"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128673,72.919083
+5077612715,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128437, 72.919043"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128437,72.919043
+5077612716,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128268, 72.918771"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128268,72.918771
+5077612717,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128919, 72.919004"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128919,72.919004
+5077612718,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129602, 72.918103"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129602,72.918103
+5077612719,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129726, 72.917857"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129726,72.917857
+5077612720,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129546, 72.917205"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129546,72.917205
+5077613121,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129636, 72.916727"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129636,72.916727
+5077613122,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129636, 72.916047"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129636,72.916047
+5077613123,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129543, 72.916067"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129543,72.916067
+5077613124,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.125920, 72.916580"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.12592,72.91658
+5077613125,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.125813, 72.916417"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.125813,72.916417
+5077613127,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.125564, 72.916232"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.125564,72.916232
+5077613128,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.125860, 72.916143"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.12586,72.916143
+5077613129,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.126039, 72.916177"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.126039,72.916177
+5077613130,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.126291, 72.916082"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.126291,72.916082
+5077613131,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.126317, 72.915885"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.126317,72.915885
+5077613132,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.126575, 72.915771"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.126575,72.915771
+5077613133,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.126693, 72.915863"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.126693,72.915863
+5077613134,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.127065, 72.915509"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.127065,72.915509
+5077613135,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.127394, 72.915548"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.127394,72.915548
+5077613136,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128274, 72.915301"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128274,72.915301
+5077613137,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128972, 72.915327"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128972,72.915327
+5077613138,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129637, 72.915357"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129637,72.915357
+5077613139,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129617, 72.915540"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129617,72.91554
+5077613140,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129545, 72.915739"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129545,72.915739
+5077613141,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.129433, 72.915471"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129433,72.915471
+5077613142,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128805, 72.915438"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128805,72.915438
+5077613143,Fixed,"""amenity""=>""waste_basket"",""description""=>""19.128336, 72.915489"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.128336,72.915489
+5077613144,Bin,"""amenity""=>""waste_basket"",""description""=>""19.137977, 72.912578"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.137977,72.912578
+5077613145,Bin,"""amenity""=>""waste_basket"",""description""=>""19.135254, 72.914404"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.135254,72.914404
+5077613146,Bin,"""amenity""=>""waste_basket"",""description""=>""19.129014, 72.919227"",""extrude""=>""0"",""tessellate""=>""-1"",""visibility""=>""-1""",19.129014,72.919227
+5077840914,H12 Store,"""service:copy""=>""no"",""service:print""=>""no"",""shop""=>""convenience""",19.1353978,72.9047863
+5077840915,H12 Print Shop,"""description:service:print""=>""A4, A3 Coloured"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.1352092,72.9046513
+5078179353,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1377527,72.9143963
+5078179354,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1376824,72.9142964
+5078179355,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1378496,72.9142139
+5078179356,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1377419,72.9142213
+5078179357,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1378255,72.914401
+5078179358,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1379212,72.9143205
+5078179359,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0""",19.1378877,72.9143044
+5078179360,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1289405,72.9159379
+5078179361,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1293251,72.9158661
+5078179362,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1293308,72.9157314
+5078179363,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-10""",19.1289507,72.915657
+5078179364,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-7""",19.1284109,72.9155758
+5078179365,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-7""",19.1284122,72.9159889
+5078179366,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0""",19.1293289,72.9157532
+5078179367,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0""",19.1291091,72.9157528
+5078179368,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1""",19.1315912,72.9158306
+5078179369,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-4""",19.1308069,72.9159728
+5078179370,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0""",19.1304598,72.9157642
+5078179371,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2-4""",19.1307132,72.915901
+5078179372,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1;3""",19.1305497,72.9170496
+5078179373,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""2""",19.131875,72.9168793
+5078179374,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2;6;7""",19.131939,72.9176672
+5078179375,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-3""",19.1328684,72.919068
+5078179376,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1""",19.1324756,72.9182969
+5078179377,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1;2""",19.1320018,72.9175874
+5078179378,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2""",19.1320068,72.9173487
+5078179379,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1""",19.1315355,72.9176445
+5078179380,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1""",19.1311984,72.9179603
+5078179381,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-6""",19.1306562,72.9181159
+5078179382,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1""",19.131206,72.9186201
+5078179383,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-3""",19.1309609,72.9179201
+5078179384,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-3""",19.1305206,72.9172864
+5078179385,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1""",19.1307182,72.9183519
+5078179386,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0""",19.1300138,72.9183586
+5078179387,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""2""",19.1302304,72.9175191
+5078179388,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1;2""",19.1301684,72.9165287
+5078179389,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-3""",19.1304985,72.9163579
+5078179390,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""2""",19.1310977,72.9163972
+5078179391,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-5""",19.1316945,72.91664
+5078179392,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2""",19.1333296,72.9172039
+5078179393,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-5""",19.1322754,72.9172602
+5078179394,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1""",19.132576,72.9168254
+5078179395,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""1"",""repeat_on""=>""2""",19.1325772,72.9168405
+5078179396,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0""",19.1330103,72.9153612
+5078179397,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-3""",19.1324591,72.9154148
+5078185854,H10 Print Shop,"""description:service:print""=>""A4 Coloured"",""service:copy""=>""yes"",""service:print""=>""yes"",""shop""=>""copyshop""",19.12893,72.9155805
+5078206065,Hostel 2 Stand,"""amenity""=>""taxi"",""description""=>""Non-frequent auto stand""",19.1359706,72.912534
+5078206067,Main gate Stand,"""amenity""=>""taxi"",""description""=>""Small auto stand. 1-2 autos""",19.1256162,72.9161191
+5078206068,YP gate stand,"""amenity""=>""taxi"",""description""=>""Large stand. 4-6 autos""",19.1291463,72.9189568
+5078206069,H10 stand,"""amenity""=>""taxi"",""description""=>""Small stand. 1-2 autos""",19.129522,72.915699
+5078206070,SOM stand,"""amenity""=>""taxi"",""description""=>""small stand. 1-2 autos""",19.1316981,72.9152443
+5078206071,Hostel 15 Stand,"""amenity""=>""taxi"",""description""=>""Large stand. 3-4 autos""",19.1374195,72.9140141
+5078296180,KreSIT,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1304509,72.9154149
+5078296181,IIT Main Gate,"""bus""=>""yes"",""public_transport""=>""platform""",19.1259528,72.9162517
+5078296182,Devi Temple (No Service),"""bus""=>""yes"",""public_transport""=>""platform""",19.124662,72.909673
+5078296183,Lake Gate (No Service),"""bus""=>""yes"",""public_transport""=>""platform""",19.124787,72.911444
+5078296184,3 Step Park (No Service),"""bus""=>""yes"",""public_transport""=>""platform""",19.125228,72.913521
+5078296185,Ananth Quarters (No Service),"""bus""=>""yes"",""public_transport""=>""platform""",19.138064,72.916565
+5078296186,QIP (Only Night Service),"""bus""=>""yes"",""public_transport""=>""platform""",19.134213,72.918286
+5078296188,KV / Infinity Corridor,"""bus""=>""yes"",""public_transport""=>""platform""",19.129685,72.917807
+5078296189,YP Point,"""bus""=>""yes"",""public_transport""=>""platform""",19.128459,72.919053
+5078296190,Central Library,"""bus""=>""yes"",""public_transport""=>""platform""",19.134129,72.914159
+5078296191,H15,"""bus""=>""yes"",""public_transport""=>""platform""",19.137522,72.915098
+5078296192,H1,"""bus""=>""yes"",""public_transport""=>""platform""",19.135938,72.914621
+5078296193,H3 / Indoor Swimming Pool,"""bus""=>""yes"",""public_transport""=>""platform""",19.135988,72.912338
+5078296194,Tansa /H4,"""bus""=>""yes"",""public_transport""=>""platform""",19.135869,72.910525
+5078296196,H6 Canara Bank ATM,"""bus""=>""yes"",""public_transport""=>""platform""",19.13515,72.90776
+5078296197,Campus Hub / H5,"""bus""=>""yes"",""public_transport""=>""platform""",19.134293,72.910216
+5078296198,H11,"""bus""=>""yes"",""public_transport""=>""platform""",19.133599,72.911906
+5078296199,SOM,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""no""",19.131705,72.915187
+5078296200,H10,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""yes""",19.129561,72.91545
+5078296201,Canara Bank,"""brand""=>""Canara Bank"",""brand:pa""=>""ਕੇਨਰਾ ਬੈਂਕ"",""brand:ur""=>""کینرا بینک"",""brand:wikidata""=>""Q2003777"",""brand:wikipedia""=>""en:Canara Bank"",""brand:wikipedia:pa""=>""ਕੇਨਰਾ ਬੈਂਕ"",""bus""=>""yes"",""name:pa""=>""ਕੇਨਰਾ ਬੈਂਕ"",""name:ur""=>""کینرا بینک"",""public_transport""=>""platform"",""shelter""=>""no""",19.129627,72.915387
+5078296202,Dean House,"""bus""=>""yes"",""public_transport""=>""platform""",19.128396,72.915285
+5107315015,Brews & Bites Cafe,"""shop""=>""tea""",19.13369,72.9114
+5107315016,hostel 10,"""shop""=>""tea""",19.1286,72.91564
+5107315017,"Jeevan jyoti, hostel 15 c wing","""shop""=>""tea""",19.13765,72.91443
+5107315018,shiv jumbo hostel 15,"""shop""=>""tea""",19.13825,72.914
+5107315020,"anjali services pvt ltd, hostel 1","""shop""=>""tea""",19.135864,72.9135193
+5107315421,"chef talk, hostel 2","""shop""=>""tea""",19.13661,72.91245
+5107315422,"shubham catering services, hostel 3","""shop""=>""tea""",19.13626,72.91141
+5107315423,"sai sidhi hospitality private ltd, hostel 5","""shop""=>""tea""",19.13588,72.91015
+5107315424,"shree ganesh snack center, hostel tansa","""shop""=>""tea""",19.1358,72.91018
+5107315425,"subhash caterers, hostel 5,","""shop""=>""tea""",19.13549,72.90975
+5107315427,patel stationary,"""shop""=>""tea""",19.134798,72.9058157
+5107315428,"technosky, hostel 13, wing A","""shop""=>""tea""",19.13459,72.90478
+5107315429,gulmohar garden cafe,"""shop""=>""tea""",19.12985,72.91483
+5107315431,badlu canteen(kresit),"""shop""=>""tea""",19.13068,72.91573
+5107315432,shiru cafe,"""shop""=>""tea""",19.13084,72.91714
+5107315433,civil cafe,"""shop""=>""tea""",19.13261,72.91688
+5219518738,Swami Samarth Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1436605,72.8197117
+5219518747,Lokhandwala Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1406596,72.8272155
+5219518752,Adarsh Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1417935,72.8336078
+5219518799,Mahakali Caves Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1334914,72.8746782
+5219518806,SEEPZ Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1293634,72.8826453
+5219518819,Saki Vihar Road Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1262047,72.8905142
+5219519239,Powai Lake Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1200084,72.9059687
+5219519273,Vikhroli Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1247293,72.9364698
+5225899076,Bhakti Park Station,"""construction""=>""station"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0288629,72.8779043
+5225899082,Kasarvadavli Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2674293,72.9666461
+5225899089,Vijay Garden Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2587261,72.9701337
+5225899099,Tikujiniwadi Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.23836,72.9756099
+5225899110,Majiwadi Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2115581,72.9757702
+5225899340,Mulund Check Naka Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1834187,72.9508402
+5225899378,Bhandup Mahapalika Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1387423,72.9307744
+5225899381,Naval Housing Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1328874,72.9277198
+5225899386,Kanjurmarg Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1253912,72.9252519
+5225899391,Surya Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1176571,72.9260842
+5225899404,Shreyas Cinema Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0976316,72.9162042
+5225899453,Suman Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0538593,72.8836221
+5304409435,dhaba,"""amenity""=>""fast_food"",""outdoor_seating""=>""yes""",19.1334245,72.9147178
+5304411908,Innovation cell,"""description""=>""Technology innovation """,19.1341026,72.9168011
+5580528930,Brand Factory Vikhroli,"""shop""=>""mall""",19.1210015,72.9266646
+5584919105,H1: Canteen,"""amenity""=>""restaurant"",""capacity""=>""50"",""cuisine""=>""indian;chinese;chicken;ice_cream;coffee_shop"",""delivery""=>""no"",""opening_hours""=>""Mo-Su 13:00-15:00,18:00-03:00"",""outdoor_seating""=>""no"",""smoking""=>""no"",""takeaway""=>""yes""",19.1362888,72.9142729
+5843139503,Pratap Nagar,,19.1393605,72.9204279
+5843139504,Hanuman Nagar,,19.1412761,72.9207605
+5843139513,Market Gate,"""access""=>""private""",19.1283859,72.9192907
+5877650987,Interaction Studio,"""amenity""=>""school"",""name:en""=>""interaction studio""",19.1332499,72.9173753
+5877674686,small swimming pool,"""access""=>""private"",""addr:street""=>""Swimming pool road"",""leisure""=>""sports_centre"",""name:en""=>""Small swimming pool"",""operator""=>""IIT Bombay"",""sport""=>""swimming""",19.1357052,72.913191
+5877887724,Dance_Room,"""use""=>""Recreation""",19.1333018,72.911835
+5877993987,Paras Studio,"""shop""=>""photo""",19.1248124,72.916507
+5878060586,Tailor,"""craft""=>""tailor"",""shop""=>""tailor""",19.1252312,72.9178607
+5878060587,Tailor,"""shop""=>""tailor""",19.1254027,72.9178288
+5878061589,Prince Men's Tailor,"""craft""=>""tailor"",""shop""=>""tailor""",19.1278325,72.9197168
+5878064886,Shilpi Textiles,"""craft""=>""tailor"",""shop""=>""tailor""",19.1248419,72.9168703
+5878069486,Tailor,"""craft""=>""tailor"",""shop""=>""tailor""",19.1252945,72.9178349
+5878069487,Vaishali Tailor,"""craft""=>""tailor"",""shop""=>""tailor""",19.1254484,72.9178775
+5878079785,laxmi studio,"""shop""=>""photo""",19.1248438,72.9167193
+5878080285,Dulhan ladies,"""craft""=>""tailor"",""shop""=>""tailor""",19.1252018,72.9176766
+5878080286,Bollywood queen,"""craft""=>""tailor"",""shop""=>""tailor""",19.1252111,72.9177584
+5878083685,Mallika Tailor,"""craft""=>""tailor"",""shop""=>""tailor""",19.1257201,72.91783
+5878083686,VandhanaTailor,"""craft""=>""tailor"",""shop""=>""tailor""",19.1259256,72.917877
+5878271290,Envi Salon & Spa,"""addr:city""=>""Mumbai"",""addr:housenumber""=>""Phulora CHSL, 1st Flr, Shop No. 05,"",""addr:postcode""=>""400076"",""addr:street""=>""Jain Mandir Road, Opp. IIT Main Gate., Behind BATA showroom, Tirandaz, Powai"",""name_1""=>""salon"",""shop""=>""hairdresser""",19.1198264,72.9079465
+5878271291,Lakme Salon,"""addr:city""=>""Mumbai"",""addr:housename""=>""Delphi Building, El tara building"",""addr:housenumber""=>""G1, Ground Floor"",""addr:postcode""=>""400076"",""addr:street""=>""Orchard Avenue, Panchkutir Ganesh Nagar, Powai"",""name_1""=>""salon"",""shop""=>""hairdresser""",19.1212253,72.9091091
+5878271292,Charvi Beauty Parlour and Academy,"""addr:city""=>""Mumbai"",""addr:housenumber""=>""Phulora CHSL, 1st Flr, Shop No. 05,"",""addr:postcode""=>""400076"",""addr:street""=>""Jain Mandir Road, Behind BATA showroom, Tirandaz, Powai"",""name_1""=>""Parlour"",""shop""=>""beauty""",19.12544,72.9180693
+5878271293,N.G. Beauty Parlour,"""addr:city""=>""Mumbai"",""addr:housenumber""=>""Shop No.8, Blue Nile Building, Near Hiranandani Hospital,"",""addr:postcode""=>""400076"",""addr:street""=>""Powai Kailash Complex Link Rd."",""name_1""=>""parlour"",""shop""=>""beauty""",19.1215198,72.9170548
+5878271294,Jean-Claude Biguine Salon & Spa,"""shop""=>""hairdresser""",19.1206201,72.9093006
+5878271295,"Nirvana - Skin & Hair Care, Salon & Spa","""shop""=>""hairdresser""",19.1193561,72.9118911
+5878271296,Bablu's Unisex Salon,"""beauty""=>""hair"",""shop""=>""hairdresser""",19.1193409,72.9116145
+5878271297,Ashraf's Scissors Hands,"""shop""=>""hairdresser""",19.1192452,72.9123232
+5878271299,Mala's Beauty Parlour,"""shop""=>""beauty""",19.1186958,72.9011914
+5878271300,Ashraf's Scissors Hands,"""addr:city""=>""Mumbai"",""addr:housenumber""=>""Shop No.13, 1st floor, C wing, Lake Primrose,"",""addr:postcode""=>""400076"",""addr:street""=>""Off Adi Shankaracharya Marg, Near Gopal Sharma School, Powai,"",""shop""=>""hairdresser""",19.122189,72.9146178
+5878271301,Princess Beauty Parlour,"""shop""=>""beauty""",19.125945,72.9189111
+5878271303,Ivana Beauty Parlour & Classes,"""shop""=>""beauty""",19.1243767,72.9165662
+5878271304,Friendz Beauty Parlour,"""addr:city""=>""Mumbai"",""addr:housenumber""=>""Tara Building, Srushti Complex,"",""addr:postcode""=>""400072"",""addr:street""=>""Baji Pasalkar Marg (Saki Vihar Road)"",""shop""=>""beauty""",19.1222092,72.891434
+5878271306,Sangita Beauty Parlour,"""shop""=>""beauty""",19.1185367,72.8918033
+5878271901,R_Area25,"""description""=>""Dance Room +Gym +lounge""",19.1285959,72.9157716
+5878271902,R_Area24,"""description""=>""Sports Room + Lounge""",19.1342602,72.9060185
+5878271903,R_Area23,"""description""=>""Dance room + Lounge""",19.1342976,72.9048657
+5878271904,R_Area22,"""description""=>""Dance Room + Lounge""",19.1353517,72.9047102
+5878271905,R_Area20,"""description""=>""H-7 Lounge""",19.1348601,72.907446
+5878271906,R_Area19,"""description""=>""H-6 Lounge""",19.1356102,72.9072851
+5878271907,R_Area18,"""description""=>""H-9 Lounge""",19.1356355,72.908299
+5878271908,R_Area17,"""description""=>""H-5 Lounge""",19.1354886,72.9097795
+5878271909,R_Area16,"""description""=>""H-4 Lounge""",19.1361829,72.9101121
+5878271910,R_Area15,"""description""=>""New Gymkhana""",19.1338415,72.9118931
+5878271912,R_Area13,"""description""=>""old SAC""",19.135296,72.9137492
+5878271913,H3 canteen,"""amenity""=>""cafe"",""internet_access""=>""no"",""outdoor_seating""=>""yes""",19.1363856,72.911287
+5878271914,R_Area11,"""description""=>""Lounge""",19.1362792,72.9126227
+5878271915,R_Area10,"""description""=>""Lounge Room""",19.1362285,72.9137331
+5878271917,R_Area8,"""description""=>""Dance Room""",19.1380682,72.912569
+5878271918,R_Area7,"""description""=>""Sports Room""",19.1375867,72.9136848
+5878271919,R_Area 6,"""description""=>""Dance Room""",19.1375664,72.9138297
+5878271921,R_Area4,,19.1350679,72.9111421
+5878271922,R_Area3,,19.1358129,72.9124027
+5878271923,R_Area2,,19.1358585,72.9115176
+5878275162,ET Library,"""amenity""=>""library""",19.1339618,72.9158102
+5878275163,Physics Library,"""amenity""=>""library""",19.1302491,72.9166162
+5878275164,IEOR Library,"""amenity""=>""library""",19.1310527,72.9180042
+5878275165,Biosciences Library,"""amenity""=>""library""",19.1307749,72.9178986
+5878275166,Aerospace Library,"""amenity""=>""library""",19.1308522,72.9185386
+5878275167,Chemical Library,"""amenity""=>""library""",19.1303457,72.9175318
+5878275168,CSRE library,"""amenity""=>""library""",19.132023,72.9177444
+5878275169,Earth Science Dept Library,"""amenity""=>""library""",19.1317209,72.9180023
+5878275170,CSE library,"""amenity""=>""library""",19.1305443,72.9157917
+5878275171,Metallurgy Library,"""amenity""=>""library""",19.1312875,72.9164267
+5878275172,SOM Library,"""amenity""=>""library""",19.1317572,72.9157582
+5878275173,IDC Library,"""amenity""=>""library""",19.1332856,72.9172948
+5879215647,IIT Main Gate,"""access""=>""private""",19.1253176,72.9165831
+5880198085,H-15_Rpoint,"""description""=>""19.1417131,72.9128412"",""landuse""=>""recreation_ground""",19.1377952,72.914075
+5880343472,Old SAC,"""leisure""=>""fitness_centre""",19.135165,72.9136895
+5880343473,New SAC,"""leisure""=>""fitness_centre""",19.1338886,72.9119515
+5880343474,Hostel 10 - open air,"""leisure""=>""bandstand""",19.1288611,72.9158056
+5880343475,Open air theatre,"""leisure""=>""bandstand""",19.1350352,72.9134556
+5880343477,Jalvihar Guest House,"""tourism""=>""guest_house""",19.1292503,72.9141205
+5880343479,Sarovar Udyan,"""leisure""=>""playground""",19.125796,72.9140803
+5880343480,Buddha sculpture,"""historic""=>""monument""",19.1338216,72.9152685
+5880343481,Hostel 14 - Conical sculpture,"""tourism""=>""artwork""",19.1350442,72.9051021
+5880343482,Stationary Boat,"""tourism""=>""artwork""",19.1281944,72.9096667
+5880343483,KreSIT - globes,"""tourism""=>""artwork""",19.1303889,72.9158889
+5880343484,Pedalling Boat,"""tourism""=>""artwork""",19.13125,72.9136111
+5880343485,Dr. B.R. Ambedkar,"""historic""=>""monument""",19.1329444,72.9153056
+5880343486,Chathrapati Shivaji,"""historic""=>""monument"",""name:en""=>""Chhatrapati Shivaji Maharaj bust""",19.1329722,72.9152778
+5880343487,Smart Pole,,19.133,72.9168056
+5880343488,Nature Embedded - The Tree,"""tourism""=>""artwork""",19.1330833,72.9177778
+5880343489,Pencil,"""tourism""=>""artwork""",19.1330482,72.9171456
+5880343490,Zero,"""tourism""=>""artwork""",19.1330708,72.9175406
+5880343491,Three Horses,"""tourism""=>""artwork""",19.133105,72.9174188
+5881307021,Print Hub,"""shop""=>""copyshop""",19.123566,72.915487
+5881307022,Staplez Print Solution,"""shop""=>""copyshop""",19.126347,72.917992
+5881307023,Chedda Print Shop,"""shop""=>""copyshop""",19.127249,72.91891
+5881307026,Impact Graphics,"""shop""=>""copyshop""",19.117356,72.903866
+5881307027,Colorax Digital,"""shop""=>""copyshop""",19.124454,72.918838
+5881307028,Unicorn Digital Arts,"""shop""=>""copyshop""",19.125138,72.918334
+5881307029,Mahakali Stationary and Printer,"""shop""=>""copyshop""",19.123014,72.912886
+5881307030,Kartik Digital Print,"""shop""=>""copyshop""",19.125051,72.917085
+5881307031,Riddhi Siddhi Xerox,"""shop""=>""copyshop""",19.12742,72.918986
+5881307032,Patel Digital Printers,"""shop""=>""copyshop""",19.127892,72.919629
+5881408989,Dil Bahar Hair Salon,"""addr:city""=>""Powai"",""addr:housenumber""=>""Shop no 3/4"",""addr:postcode""=>""400076"",""addr:street""=>""I.I.t main gate powai,"",""shop""=>""hairdresser""",19.1252541,72.9177312
+5881460647,HN Wellness Salon & Spa,"""shop""=>""hairdresser""",19.1236937,72.9130012
+5881460648,Nikita Ladies Beauty Parlour,"""shop""=>""beauty""",19.1394019,72.9231922
+5881460649,De Lavish Salon,"""shop""=>""hairdresser""",19.1209505,72.9095165
+5882322886,Sameer Hill,"""tourism""=>""viewpoint""",19.140891,72.9181131
+5882322904,Knowledge Tree,"""tourism""=>""artwork""",19.1330669,72.9156693
+5937358379,Filter Pada,,19.1400092,72.8947484
+6038193885,Bhandup Station (W),"""bus""=>""yes"",""construction""=>""stop"",""name:en""=>""Bhandup Station West"",""public_transport""=>""platform"",""railway""=>""construction"",""shelter""=>""yes""",19.1460869,72.9360585
+6062731479,"IS Consultancy, ISO Certification, KOSHER & HALAL Certification - Mumbai","""addr:city""=>""Mumbai"",""addr:housenumber""=>""Gods heaven CHS,"",""addr:postcode""=>""400072"",""addr:street""=>""Crystal Court Compound, Near Powai Police Station, Powai,"",""description""=>""We are among the leading ISO consultants in Mumbai, Offering ISO 9001, ISO 14001, ISO 18001, KOSHER & HALAL and the entire range of ISO Certification in Mumbai, India. "",""phone""=>""+91 9773542735"",""website""=>""https://www.isconsultancy.co.in/""",19.1179911,72.8991136
+6212726035,W15,"""amenity""=>""drinking_water""",19.1349062,72.9158534
+6212726036,Main Building,"""amenity""=>""bench""",19.1326115,72.9159295
+6212726037,Washroom,"""access""=>""customers"",""amenity""=>""toilets"",""level""=>""0"",""male""=>""yes"",""repeat_on""=>""1-3""",19.1305001,72.9163747
+6212726038,Washroom,"""access""=>""customers"",""amenity""=>""toilets"",""level""=>""0"",""male""=>""yes"",""repeat_on""=>""1-3""",19.1309174,72.9163532
+6212726039,Ladies Restroom,"""access""=>""customers"",""amenity""=>""toilets"",""female""=>""yes"",""level""=>""0"",""repeat_on""=>""1-3""",19.1309158,72.9163365
+6784511247,Powai Lake Viewpoint,"""tourism""=>""viewpoint""",19.1298921,72.9103509
+6784521085,Academic Area,,19.1314696,72.9173595
+6785961638,Residential Area,,19.1251394,72.9138887
+6785961639,Hostel Area,,19.1353467,72.9102892
+6786001032,Recreational Area,,19.1336337,72.9131806
+6786347962,Ramabai Ambedkar Nagar,,19.1247542,72.9201221
+6786347965,Tirandaz,,19.1244881,72.917735
+6788786522,D Plus Computer,"""altitude""=>""0"",""description""=>""Laptop and desktop repairing, AMC, Network Solution and all types of Smart TVs<br><br>3 Radheshyam Chawl, Hanuman Road, Opposite IIT Market, Powai, Mumbai 4000076<br><br>8898851524<br>dpluscomputers@gmail.com"",""geometry""=>""Point"",""shop""=>""computer""",19.1278119,72.9193601
+6796939961,fbb - Fashion at Big Bazar,"""shop""=>""clothes""",19.1183423,72.9114023
+6796939962,Westside,"""shop""=>""clothes""",19.1183565,72.9114151
+6796939964,A1 Watch Sales and Service,"""shop""=>""watches""",19.119541,72.9117057
+6796939965,Inner Vogue Lingerie Shop,"""shop""=>""clothes""",19.1194604,72.9115763
+6796939966,Purple Haze Clothing Store,"""shop""=>""clothes""",19.1194863,72.9116143
+6796939967,1st Beauty Fair,"""shop""=>""beauty""",19.1196043,72.9118458
+6796939968,Ashraf's Salon,"""shop""=>""beauty""",19.1195724,72.9117881
+6796939969,Dental Clinic - Dr Tania Thukral,"""amenity""=>""dentist"",""healthcare""=>""dentist""",19.1195109,72.9116464
+6796939970,Ramdas Vitthaldas Mewawala,"""shop""=>""confectionery""",19.1191729,72.9114251
+6796939971,The Wadapav Cafe,"""amenity""=>""fast_food""",19.1191437,72.9118211
+6796939972,Jawed Habib Hair and Beauty,"""shop""=>""beauty""",19.1192461,72.9120027
+6796939973,Styles and Smiles - Salon and Spa,"""shop""=>""beauty""",19.1192011,72.911938
+6796939974,Jio Digital Life,"""amenity""=>""phone service provider""",19.1191734,72.9118992
+6796939975,Kids care,"""shop""=>""clothes""",19.1192838,72.9115491
+6796939976,Mamaji's Medical Store,"""amenity""=>""pharmacy"",""healthcare""=>""pharmacy"",""shop""=>""medical_supply""",19.1192134,72.9115491
+6796939977,Grapes Kids and Ladies Wear,"""shop""=>""clothes""",19.1192336,72.9115826
+6796939978,Lucky Kids,"""shop""=>""clothes""",19.1191909,72.9114787
+6796939979,Navrang Digital Lab,"""shop""=>""photo_studio""",19.1190633,72.911202
+6796939980,Harsidh Stationery and Xerox,"""shop""=>""stationery""",19.1193832,72.9118063
+6796939981,GNC,"""brand""=>""GNC"",""brand:wikidata""=>""Q4808595"",""brand:wikipedia""=>""en:GNC (store)"",""shop""=>""nutrition_supplements""",19.1194171,72.9119347
+6796939982,Maarwadi,"""shop""=>""confectionery""",19.1191526,72.9113701
+6796939983,Galleria Juice and Snacks,"""amenity""=>""fast_food""",19.1191177,72.9112616
+6796939984,Rainbow Juice Center,"""amenity""=>""fast_food""",19.1191612,72.9112297
+6796952285,Dosa Maker,"""amenity""=>""fast_food""",19.1191396,72.9111901
+6796952286,Bollyfood,"""amenity""=>""fast_food""",19.1191102,72.9111901
+6801919185,Print vision,"""shop""=>""copyshop""",19.1267641,72.918714
+6801919186,Cycle shop,"""amenity""=>""bicycle_repair_station""",19.1260374,72.9188464
+6801919187,Sagar Cycle repair shop,"""amenity""=>""bicycle_repair_station""",19.1259864,72.9188732
+6801919188,Madarsa (Tajweedul Islam),"""amenity""=>""school""",19.1259525,72.9188893
+6801919189,well,,19.125804,72.918896
+6801919191,Princess Beauty Corner,"""shop""=>""hairdresser""",19.1256633,72.9189276
+6801919192,Nihal Nursing Home & Opthalmologist,"""amenity""=>""hospital""",19.1253722,72.9190861
+6801919193,L Hernam optics,"""shop""=>""optician""",19.1253725,72.9194744
+6801919194,Scrap store (Raddi),"""industrial""=>""scrap_yard"",""landuse""=>""industrial""",19.1254283,72.9194808
+6801919195,Red House Hostel,"""tourism""=>""hotel""",19.125606,72.9194674
+6801919196,Sagar Medical store,"""amenity""=>""pharmacy""",19.1257238,72.9194583
+6801919197,"Powai Dormitory, Gold Finance, Manappuram","""tourism""=>""hostel""",19.1258078,72.9194489
+6801919198,Durga Mandir,"""amenity""=>""place_of_worship"",""religion""=>""hindu""",19.1257476,72.9194513
+6801919199,RR Furniture & Interior Decorators,"""shop""=>""furniture""",19.1260412,72.9194546
+6801919200,Maharashtra Gas Depot,"""shop""=>""gas""",19.1260859,72.9195012
+6801919201,Cobbler + repair shop,"""craft""=>""shoemaker""",19.1260928,72.919412
+6801919202,Padmavati Co.op.HSG Society,"""residential""=>""apartments""",19.1262804,72.9194003
+6801919203,New Mahavir NX,"""shop""=>""clothes""",19.1269877,72.9192957
+6801919204,Pooja Grain store,"""shop""=>""supermarket""",19.1269941,72.9192913
+6801919205,Shiv Krishna Dairy,"""shop""=>""dairy""",19.1270115,72.919291
+6801919206,Bhavani ceramics,"""shop""=>""tiles""",19.1270451,72.919287
+6801919207,Vishranti Housing Society,"""landuse""=>""residential"",""residential""=>""apartments""",19.1275058,72.91925
+6801919208,Anna Juice Centre,"""amenity""=>""cafe""",19.1275148,72.9192427
+6801919209,Powai Adarsh Society,"""landuse""=>""residential"",""residential""=>""apartments""",19.1275186,72.9192491
+6801919210,Tiwari Tea Stall,"""amenity""=>""cafe""",19.1275446,72.9192498
+6801919212,Azhar Auto garage;Ratna country Bar,"""shop""=>""motorcycle_repair""",19.1275932,72.9192428
+6801919213,Rajyashree Lottery & Vinayak Video game;Navin general stores,"""leisure""=>""adult_gaming_centre""",19.1275833,72.9192758
+6801919215,Om Mook Ambika Prasanna,"""amenity""=>""fast_food""",19.1277017,72.9192075
+6801919216,Om Sai food stall,"""amenity""=>""fast_food""",19.1278471,72.9193138
+6801919217,Shabnam Hair Salon,"""shop""=>""hairdresser""",19.1278436,72.9193634
+6801919218,Patel Electrical & Hardware,"""shop""=>""hardware""",19.1278303,72.9193396
+6802053482,MCGM Ground,"""description""=>""Public Garden""",19.1174458,72.9077961
+6802053483,Bus Stop,"""description""=>""Outside Hiranandani School""",19.1175044,72.9075218
+6802053484,Andhra Bank,"""description""=>""Bank and ATM""",19.1176428,72.9076284
+6802082685,Hiranandani Foundation School,"""description""=>""School""",19.118022,72.9076435
+6802082688,China Valley,"""description""=>""Chinese Restaurant and Bar""",19.118035,72.9065575
+6802082689,Utsav Restaurant,"""description""=>""Family Restaurant""",19.1183331,72.9063902
+6802082691,Jalvayu Vihar Bus Stop,"""description""=>""Bus Stop with benches""",19.1177233,72.9056238
+6802082692,MCGM Ground,"""description""=>""Public Play Area""",19.1177537,72.9053237
+6802082693,Heera Panna Shopping Complex,"""description""=>""Shopping complex""",19.1182089,72.9051839
+6802082694,Noble Plus,"""description""=>""Pharmacy, Chemist and Skin Care 24x7""",19.1177464,72.9050418
+6802082695,Cazaro,"""description""=>""Ladies Inner wear shop""",19.1182355,72.9050894
+6802082696,German Laundry,"""description""=>""Laundry""",19.118156,72.9050518
+6802082697,Patni Office Solutions,"""description""=>""Stationery, Gifts, Xerox, Prints, Bookbinding, Lamination, Toys""",19.1180591,72.9050079
+6802082698,Pooja Trades,"""description""=>""HP World computer store""",19.1179675,72.9049623
+6802082699,San Doitchi,"""description""=>""Burritos, Sandwiches, Teppanyaki, Salads and Coffee""",19.1177876,72.9049449
+6802082700,Bueno Dry clean service,"""description""=>""Laundry""",19.1183901,72.9051383
+6802082701,Rolly's Yoga studio,"""description""=>""Yoga Art, Prenatal Yoga, Postnatal Yoga""",19.1183195,72.9051038
+6802082702,ICICI Prudential Mutual funds,"""description""=>""Mutual funds office""",19.1184471,72.9051708
+6802082703,Paras Bookwallah,"""description""=>""Books Store and library""",19.1185083,72.9051926
+6802082704,Selection Sports Centre,"""description""=>""Sports accessories shop""",19.1185491,72.9052188
+6802082705,Kohinoor Sales Agency,"""description""=>""Firefox Cycle Partner<br>Cycle Shop""",19.1186084,72.9052406
+6802082706,Maruti Air Couriers and Cargo,"""description""=>""Courier Services""",19.1187297,72.9053019
+6802082707,Party Hunters,"""description""=>""One stop party shop""",19.1186803,72.9052805
+6802082708,Veena World,"""description""=>""Tours and Travels Operators""",19.1187744,72.9053288
+6802082709,Mahit Technologies,"""description""=>""Dell Authorized computer store""",19.1188377,72.9053512
+6802082710,MCGM Parking Lot,"""description""=>""Pay and Park parking area""",19.1187728,72.9051118
+6802082711,Mahananda Dairy Parlour,"""description""=>""Milk, icecream and snacks outlet""",19.1187262,72.9050907
+6802082712,Jalvayu Vihar bus stop,"""description""=>""bus stop with benches""",19.1176213,72.9054521
+6802123185,Ezone,"""amenity""=>""electronics""",19.1185153,72.9113218
+6802123186,A1 Watch,"""amenity""=>""electronics_repair""",19.1195695,72.9117785
+6802123187,Orra,"""amenity""=>""jeweller""",19.1190452,72.9114368
+6802123188,SunDev Computers,"""amenity""=>""electronics_repair""",19.1191083,72.9115159
+6802123189,New Starlite Optiks;Sheer Perfection Beauty Salon,"""amenity""=>""beauty"",""shop""=>""optician""",19.1191799,72.9120048
+6802123190,Stop n Shop,"""amenity""=>""electronics""",19.1193303,72.9118452
+6802123191,Shiv Shubham Jewellers,"""amenity""=>""jeweller""",19.1194643,72.9119759
+6802123192,Navarang Optics,"""shop""=>""optician""",19.1194222,72.9119283
+6802123193,New Abra Ka Dabra,"""amenity""=>""electronics""",19.1193864,72.9118955
+6802123194,Beauti Art,"""amenity""=>""jeweller""",19.119503,72.9120356
+6802123195,Abracadabra,"""amenity""=>""electronics""",19.1193683,72.9117459
+6802123196,Jackpot,"""amenity""=>""clothes""",19.1191726,72.9113359
+6802123197,Magic Gold Popular Gold,"""amenity""=>""jeweller""",19.1192372,72.9114502
+6802123199,Gelleria Optics,"""shop""=>""optician""",19.1189565,72.911416
+6802123200,Powai Opticians,"""healthcare""=>""optometrist""",19.1280194,72.9194586
+6802123201,Bharat General Store,"""shop""=>""general""",19.1279567,72.9194013
+6802123202,Jagdish Stores,"""shop""=>""supermarket""",19.127874,72.9197148
+6802123203,Patel Digital Printers,"""shop""=>""copyshop""",19.127893,72.91957
+6804290503,Kailash Steel Emporium,"""craft""=>""metal_construction""",19.1269313,72.9187596
+6804290504,chicken wala,"""description""=>""fast food restaurant"",""industrial""=>""slaughterhouse"",""landuse""=>""industrial""",19.1267577,72.9187415
+6804290505,unique homoeo pharmacy,"""amenity""=>""pharmacy"",""description""=>""medical store"",""dispensing""=>""yes"",""healthcare""=>""pharmacy""",19.1267112,72.9187525
+6804290506,mom's kitchen,"""amenity""=>""fast_food"",""description""=>""fast food restaurant""",19.1266976,72.9187556
+6804290507,"Mukteshwar Ashram,Powai","""description""=>""religious trust"",""office""=>""religion""",19.1266111,72.918952
+6804290508,edukidz INTERNATIONAL,"""amenity""=>""prep_school"",""description""=>""daycare, pre school""",19.1263672,72.9187033
+6804290509,accountant academy,"""amenity""=>""prep_school"",""description""=>""account tutorial""",19.1262072,72.918837
+6804290510,Shabnam ladies tailor,"""description""=>""sticking and ironing"",""shop""=>""tailor""",19.1260564,72.9188571
+6804290511,Ideal high-school,"""description""=>""High school"",""office""=>""educational_institution""",19.1258166,72.918885
+6804290512,Rickshaw Stand,"""amenity""=>""taxi"",""description""=>""union""",19.1254007,72.918832
+6804290514,"Shriram niwas, English speaking classes",,19.1254723,72.9190473
+6804290515,Dhanvantari maternity and endoscopy centre,"""description""=>""hospital"",""healthcare""=>""yes""",19.1254932,72.9191472
+6804290516,Beauty Passion,"""description""=>""beauty clinic and parlour"",""shop""=>""beauty""",19.1253478,72.9193581
+6804290517,Axis bank atm,"""amenity""=>""atm"",""description""=>""ATM""",19.1252572,72.9193423
+6804290518,"Oppo, vodafone, idea","""description""=>""sim card"",""shop""=>""mobile_phone""",19.1250101,72.919353
+6804290519,Star Bag,"""description""=>""Bags, repairing and sale"",""shop""=>""bag""",19.1251311,72.9193215
+6804290520,Harsha chemist and general store,"""description""=>""medical shop"",""shop""=>""chemist""",19.1254064,72.9191381
+6804290521,Krishna emporium,"""description""=>""Clothes store"",""shop""=>""clothes""",19.1254327,72.9193007
+6804290522,Charmi,"""description""=>""children's clothing"",""shop""=>""clothes""",19.1254631,72.9193855
+6804290523,Sarsha co-op housing society,"""residential""=>""apartments""",19.1258043,72.9193614
+6804290524,Shri Krishna niwas,"""description""=>""residential area"",""landuse""=>""residential"",""residential""=>""apartments""",19.125944,72.91929
+6804290525,Surana Departmental,"""description""=>""gift shop and general store"",""shop""=>""gift""",19.1261286,72.9193329
+6804290526,Raj computer academy,"""amenity""=>""prep_school"",""description""=>""computer trainers""",19.1261739,72.9193057
+6804290527,Bhawani photoframes,"""description""=>""lamination, glass cutting, fibre & metal frames"",""shop""=>""frame""",19.1262706,72.9192943
+6804290528,Shwet Castle,"""description""=>""residential area"",""residential""=>""apartments""",19.1263659,72.9192876
+6804290529,Priyadarshini Appartments,"""description""=>""residential area"",""residential""=>""apartments""",19.1265499,72.9192625
+6804290530,Dr. Jadhav's Dental clinic,"""amenity""=>""dentist"",""description""=>""implants, aesthetics"",""healthcare""=>""dentist""",19.1268376,72.9192672
+6804290531,Dr. Rajesh Gandhi,"""description""=>""family physician, vaccination centre"",""healthcare""=>""hospice""",19.1268544,72.9192628
+6804290532,Gautam Niwav,"""description""=>""Residential area"",""landuse""=>""residential"",""residential""=>""apartments""",19.1268784,72.9192598
+6804290533,Bhella Cottage,"""description""=>""plot no 129, residential area"",""landuse""=>""residential"",""residential""=>""apartments""",19.1271838,72.9192263
+6804290534,Shivshakti technologies,"""description""=>""Mobile and laptop service"",""shop""=>""mobile_phone""",19.1272142,72.9192233
+6804290535,Kebab and Biryani Station,"""amenity""=>""fast_food"",""cuisine""=>""kebab"",""description""=>""non veg snacks""",19.1272199,72.9192179
+6804290536,N K traders,"""description""=>""meat shop- chicken, mutton"",""industrial""=>""slaughterhouse"",""landuse""=>""industrial""",19.1272804,72.9192135
+6804290537,Maddu Mess,"""amenity""=>""restaurant"",""description""=>""a little inside the lane""",19.1272826,72.9191817
+6804290538,Mahalaxmi Jewelers,"""description""=>""Jewelry store"",""shop""=>""jewelry""",19.127308,72.9192216
+6804290539,Kismat Laundry,"""description""=>""sarees, shirts laundry, rafoo"",""shop""=>""laundry""",19.1273219,72.9192189
+6804290540,Bharti Jewelers,"""description""=>""gold and silver"",""shop""=>""jewelry""",19.127326,72.9192162
+6804290541,Soni Electronics,"""craft""=>""electronics_repair"",""description""=>""Mobile and hardware""",19.1273406,72.9192089
+6804290542,A one juice,"""amenity""=>""cafe"",""description""=>""Juice and Soda centre""",19.1273764,72.9192072
+6804290543,Goodluck Properties,"""description""=>""Real estate agent"",""office""=>""estate_agent""",19.1273837,72.9192058
+6804290544,Powai hair cutting salon,"""description""=>""men's salon"",""shop""=>""hairdresser""",19.1274109,72.9192048
+6804290545,Welcome Optics,"""description""=>""glasses"",""shop""=>""optician""",19.1274423,72.9191985
+6804290546,Azad Caterers;Vaibhavlakshmi,"""craft""=>""caterer"",""description""=>""Food service;mobile and repair shop""",19.1275056,72.9191954
+6804290548,Mahavir Paan bidi stall,"""description""=>""Paan shop"",""shop""=>""tobacco""",19.1275445,72.9191995
+6804290549,Fruit stall,,19.1291956,72.9191814
+6810831555,Parabola Restaurant,"""amenity""=>""restaurant""",19.1185114,72.9116437
+6810831556,Le Pain Quotidien,"""amenity""=>""cafe""",19.1185263,72.9115605
+6810831557,Rodas - An Ecotel Hotel,"""amenity""=>""restaurant""",19.1185925,72.9116829
+6810831558,Crafters - The Tap House,"""amenity""=>""pub"",""description""=>""Restaurant and Bar""",19.1185802,72.9113588
+6810831559,Hoppipola,"""amenity""=>""bar"",""description""=>""Cafe, Restaurant and Bar, First Floor Galleria""",19.1190899,72.9112222
+6810831560,The Beer Cafe,"""amenity""=>""bar"",""description""=>""First Floor Galleria""",19.1193834,72.9119533
+6810831561,Rolls Mania,"""amenity""=>""fast_food"",""description""=>""Restaurant and Delivery, First Floor, Galleria""",19.1195029,72.911828
+6810831562,Smokin Joe's Pizza,"""amenity""=>""fast_food"",""description""=>""Restaurant and Delivery, First Floor, Galleria""",19.1191422,72.9114777
+6810831563,Little Punjab Restaurant,"""amenity""=>""restaurant"",""description""=>""First Floor Galleria""",19.1192914,72.9115669
+6810831564,Kareem's,"""amenity""=>""fast_food"",""description""=>""Eatery on the first floor""",19.1192077,72.9114459
+6810831565,Charpai - The Flavour,"""amenity""=>""restaurant"",""description""=>""Eatery on the first floor""",19.1194409,72.9114646
+6810831566,Faasos,"""amenity""=>""fast_food"",""description""=>""Eatery on the first floor""",19.1194187,72.9114147
+6810831567,Juicy Stuff,"""amenity""=>""restaurant"",""description""=>""Eatery on the first floor""",19.1193864,72.9113547
+6810831568,China House,"""amenity""=>""restaurant"",""description""=>""Eatery on the first floor""",19.1193569,72.911298
+6810831569,Paratha World Powai;kfc,"""addr:city""=>""mumbai"",""addr:district""=>""thane"",""addr:postcode""=>""400076"",""addr:street""=>""vihar road"",""amenity""=>""fast_food;cafe"",""cuisine""=>""burger"",""description""=>""Eatery on the first floor"",""opening_hours""=>""Mo-Su 09:00-22:00"",""phone""=>""080 4275 4444""",19.118578,72.9112514
+6810831570,Dum Matka,"""amenity""=>""restaurant"",""description""=>""Indian Cuisine, Dum Biryani, Kebabs, First Floor""",19.1193249,72.9113651
+6810831571,China Chilli,"""amenity""=>""restaurant"",""description""=>""Shop number 153, Galleria, First Floor""",19.1193544,72.9114127
+6810831572,Hanglas - The Taste of Kolkata,"""amenity""=>""restaurant"",""description""=>""First Floor""",19.1193782,72.9114613
+6810831573,Asian Wok,"""amenity""=>""restaurant"",""description""=>""Chinese, Thai, Pan Asian Restaurant, First Floor""",19.1194007,72.9114985
+6810835996,Furtados Music,"""description""=>""Musical Equipment Outlet, First Floor"",""shop""=>""musical_instrument""",19.1191979,72.9119096
+6810835997,Garima Cyber Cafe and Print,"""description""=>""First floor, Galleria"",""shop""=>""copyshop""",19.1192337,72.9115874
+6810835998,Sweet Bengal,"""description""=>""Confectionery Store on the first floor"",""shop""=>""confectionery""",19.1191897,72.9115351
+6881057817,Matoshri Valbai Mulji Shah - Arpan Blood Bank,"""addr:city""=>""Mumbai"",""addr:district""=>""MUMBAI"",""addr:full""=>""Aniraj Tower, Janta Market, L.B.S Marg, Bhandup (W), Mumbai"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""blood_bank"",""contact:mobile""=>""9423696022"",""contact:phone""=>""02225951044; 02225941142"",""fax""=>""022 67417980"",""opening_hours""=>""24/7"",""operator:type""=>""ngo"",""website""=>""http://www.arpanbloodbank.org""",19.142609,72.9333776
+6990613713,atta flour making shop,"""addr:city""=>""mumbai"",""addr:housenumber""=>""3"",""addr:postcode""=>""400042"",""addr:street""=>""achanak mitra mandal, ram nagar"",""shop""=>""bakery""",19.1359056,72.9392149
+7043397403,S B Nursing Home and Icu,"""addr:district""=>""Mumbai"",""addr:full""=>""Lake Bloom - 16, 17, 18, Opposite Solaris Estate, L.T. Gate No.6, Tunga Gaon, Sakivihar Road, Powai"",""addr:postcode""=>""400072"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1242045,72.8906147
+7043397404,Sri Sai Eye Care Centre,"""addr:district""=>""Mumbai"",""addr:full""=>""1st Floor, Paradise,Jain Mandir Road, I.I.T Market, Powai"",""addr:postcode""=>""400076"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1254925,72.9181845
+7043842002,Dr.Bhatia's Ruby Hospital,"""addr:district""=>""Mumbai"",""addr:full""=>""1st Floor, Arunoday Tower, Sps Marg, Kokan Nagar"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1457239,72.9293557
+7046096970,I and Eye Dr Kolhes Eye Clinic,"""addr:district""=>""Mumbai"",""addr:full""=>""1st Floor, Kailas Complex L.B.S. Marg"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""clinic""",19.1461995,72.9356709
+7049156092,J. K. Child Health Care and Nicu,"""addr:district""=>""Mumbai"",""addr:full""=>""Shrenik Hospital, Dina Patil Estate, Station Road, Bhandup (W)"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital"",""healthcare""=>""hospital""",19.1449554,72.9347174
+7051103930,Gaurav Maternity and Surgical Hospital,"""addr:district""=>""Mumbai"",""addr:full""=>""Arunoday Tower, C Wing, Ground Floor, Opp Kokan Nagar Bus Stop, Bhandup (W)"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1456895,72.9292135
+7051668008,Aniket Nursing Home,"""addr:district""=>""Mumbai"",""addr:full""=>""Kanjurmarg East"",""addr:postcode""=>""400042"",""addr:state""=>""Maharashtra"",""amenity""=>""clinic""",19.1304243,72.93483
+7053694050,Aashirwad Nursing Home,"""addr:district""=>""Mumbai"",""addr:full""=>""A-3, New Green Apartment, Tilak Chowk, T.P.Road, Malad (W)"",""addr:postcode""=>""400064"",""addr:state""=>""Maharashtra"",""amenity""=>""clinic""",19.1442389,72.9308999
+7055223581,Shaha Children Hospital,"""addr:district""=>""Mumbai"",""addr:full""=>""A 102/103, Wing Arunoday Tower,1st Floor,Kokan Nagar ,J.M.Road"",""addr:postcode""=>""400065"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1456572,72.9292417
+7063805560,Atul - Lok Hospital,"""addr:district""=>""Mumbai"",""addr:full""=>""139/2447, Group Vii, Tagore Nagar, Vikhroli (E)"",""addr:postcode""=>""400083"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1190712,72.9344156
+7064867148,Sai Sparsh Hospital and Iccu,"""addr:district""=>""Mumbai"",""addr:full""=>""2nd Floor,Jamil Nagar,J.M.Road,Near Maratha Mitra Mandal"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1432944,72.9253297
+7069569114,Ankur Maternity and Surgical Nursing Home,"""addr:district""=>""Mumbai"",""addr:full""=>""Shree Vijay Kunj, Cooperative Housing Society"",""addr:postcode""=>""400042"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.130945,72.9363066
+7070241554,Powai Polyclinic and Hospital,"""addr:district""=>""Mumbai"",""addr:full""=>""19/A, Opposite Iit Main Gate, Powai"",""addr:postcode""=>""400076"",""addr:state""=>""Maharashtra"",""amenity""=>""clinic""",19.121385,72.8976935
+7147944048,Security Check,"""description""=>""Security Check Near Main Building Entrance, opposite Convocation Hall""",19.1327265,72.9148936
+7147944049,Security Check,"""description""=>""Security Check Near Central Library""",19.1343534,72.9143035
+7147945060,imk Bakery,"""shop""=>""supermarket""",19.1323565,72.9117339
+7225067135,Dr.Babasaheb Ambedkar Maternity Home Tagore Nagar,"""addr:district""=>""Mumbai"",""addr:full""=>""Tagore Nagar, Vikhroli, Mumbai"",""addr:postcode""=>""400083"",""addr:state""=>""Maharashtra"",""description""=>""Maternity Home"",""healthcare""=>""centre""",19.118616,72.93459
+7225067140,BMC Kanjur Village Health Post,"""addr:district""=>""Mumbai"",""addr:full""=>""BMC, Pariwar Road, Mirashi Nagar, Kanjurmarg East"",""addr:postcode""=>""400042"",""addr:state""=>""Maharashtra"",""description""=>""Urban Health Posts"",""healthcare""=>""centre""",19.1303562,72.9380041
+7225067143,Savitribai Jyotiba Phule Maternity Home Bhandup,"""addr:district""=>""Mumbai"",""addr:full""=>""850-b, Subhash Rd, Shivaji Udyam Nagar, Kolhapur"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""description""=>""Maternity Home"",""healthcare""=>""centre""",19.1462122,72.9345132
+7225067208,Hiranandani Health Post,"""addr:district""=>""Mumbai"",""addr:full""=>""Shiivkrupa Apts. Below Nehal Hospital , I.I.T Market Powai (W), Nehal Hospital, Pawai, Mumbai"",""addr:postcode""=>""400076"",""addr:state""=>""Maharashtra"",""description""=>""Urban Health Posts"",""healthcare""=>""centre""",19.1252369,72.9190284
+7225067275,"Krantiveer Mahatma Jyotiba Phule Hospital, Vikhroli","""addr:district""=>""Mumbai"",""addr:full""=>""Krantiveer Mahatma Jyotiba Phule Hospital, Vikas College Road, Kannamwar Nagar - 2"",""addr:postcode""=>""400083"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital"",""description""=>""Sub District Hospital""",19.1180038,72.9394753
+7604724839,Savitribai Jyotiba Phule Maternity Home Bhandup,"""addr:district""=>""Mumbai (Suburban)"",""addr:full""=>""Bhandup"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1462704,72.9345511
+7663961464,Naval Hospital,"""addr:district""=>""Mumbai Suburban"",""addr:full""=>""Dockyard Goi Employees, N C H Colony, Kanjurmarg West, Bhandup West, Mumbai"",""addr:postcode""=>""400078"",""addr:state""=>""Maharastra"",""amenity""=>""hospital""",19.132448,72.925483
+7663961483,People's Clinic & Vaccinations Centre,"""addr:district""=>""Mumbai Suburban"",""addr:full""=>""Shiv Shakti Nagar, Raje Shivaji Nagar, Marol, Andheri East, Mumbai"",""addr:postcode""=>""400072"",""addr:state""=>""Maharastra"",""amenity""=>""clinic""",19.1226197,72.8900543
+7663961491,Devaki Hospital,"""addr:district""=>""Mumbai Suburban"",""addr:full""=>""Quarry Road, Bhandup, JM Nagar, Ganesh Nagar, Bhandup West, Mumbai"",""addr:postcode""=>""400078"",""addr:state""=>""Maharastra"",""amenity""=>""hospital""",19.1403995,72.9283565
+7663961494,Shrenik Hospital and Maternity House,"""addr:district""=>""Mumbai Suburban"",""addr:full""=>""Bhandup Station Road, Bhandup, Dina Bama Estate, Bhandup West, Mumbai"",""addr:postcode""=>""400078"",""addr:state""=>""Maharastra"",""amenity""=>""hospital""",19.1438077,72.9370628
+7817536592,Bhandup,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1432597,72.9381642
+7817536593,Bhandup,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1432002,72.9382584
+7817536594,Bhandup,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1431668,72.9382978
+7817543286,Kanjurmarg,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.128639,72.9280951
+7817547051,Nahur,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1542527,72.9463237
+7817668010,Ghatkopar,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.0856782,72.9079856
+7817668011,Ghatkopar,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.0855813,72.9080613
+7817668012,Ghatkopar,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.085542,72.9080779
+7944342212,IIT Market Bus Stop,"""bus""=>""yes"",""operator""=>""BEST"",""public_transport""=>""platform""",19.1274256,72.9190682
+8220494743,Creative Handicrafts Powai,"""addr:city""=>""Mumbai"",""addr:postcode""=>""400076"",""addr:street""=>""Adi Sankaracharya Marg"",""clothes""=>""women"",""fair_trade""=>""yes"",""organic""=>""yes"",""shop""=>""clothes"",""website""=>""https://creativehandicrafts.org/""",19.1188862,72.9051093
+8448955040,Anthem Lounge,"""addr:city""=>""Powai, Mumbai"",""addr:housenumber""=>""Opp Powai Lake, near Shipping Corporation"",""addr:postcode""=>""400076"",""addr:street""=>""JVLR Road"",""amenity""=>""bar"",""opening_hours""=>""Mo-Su 11:00-02:30""",19.1240233,72.896749
+8462729071,Dongripada Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2505903,72.9732622
+8462729072,Manpada Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.231076,72.9766714
+8730298196,Kanjurmarg Police Station,,19.1298034,72.9372561
+8797353176,Sunrise Hospital,"""addr:district""=>""Mumbai"",""addr:full""=>""3rd Floor, Bhandup"",""addr:postcode""=>""400078"",""addr:state""=>""Maharashtra"",""amenity""=>""hospital""",19.1463034,72.9369932
+8883816698,Arkade Earth Gate,"""access""=>""private""",19.1297439,72.9333293
+9031592485,"Stationary Store, H-18","""addr:city""=>""Mumbai"",""addr:housenumber""=>""Hostel 18,IIT Bombay"",""addr:postcode""=>""400076"",""addr:street""=>""Hostel 18 road"",""name:de""=>""Kiosk, H-18"",""opening_hours""=>""Mo-Su 09:00-02:00"",""payment:cash""=>""yes"",""payment:coins""=>""yes"",""shop""=>""stationery""",19.1364217,72.9091602
+9121318237,Mahapalika Bhavan Marg Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2012539,72.9650642
+9126268645,Sonapur Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1662004,72.9384301
+9126268646,Mulund Fire Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1756765,72.9425569
+9126268647,Teen Hath Naka Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1870989,72.9615358
+9126268648,RTO Thane Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2""",19.1934011,72.9627249
+9132436365,Amar Mahal Junction Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.067405,72.8999983
+9132436369,Wadala TT Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0380667,72.8802591
+9132436411,Lakshmi Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0889805,72.9184404
+9132708002,Momin Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.139783,72.8459649
+9132708009,JVLR Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1405068,72.8540075
+9132708010,Majas Depot Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1392202,72.8618974
+9132708011,Powai Udyan Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1215921,72.8989663
+9132708012,IIT Powai Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1242338,72.9137395
+9343397109,Mega restaraunt,"""addr:housenumber""=>""Vikhroli"",""amenity""=>""restaurant"",""cuisine""=>""chinese"",""diet:vegetarian""=>""yes"",""opening_hours""=>""Mo-Fr 09:00-17:00"",""phone""=>""+91 895412367""",19.1244909,72.9368751
+9524042727,Market Gate,"""access""=>""permissive""",19.1284414,72.9193014
+9633043512,H3 Mess,"""amenity""=>""mess"",""food""=>""yes""",19.1362462,72.911199
+9633125267,H3 Lounge,"""leisure""=>""sports_centre"",""sport""=>""table_tennis;table_soccer;pool;chess""",19.1362154,72.9113411
+10013209944,Manastu Space,"""addr:city""=>""Mumbai"",""addr:postcode""=>""400078"",""aerospace:product""=>""spacecraft_propulsion"",""company""=>""aerospace"",""description""=>""green propulsion system"",""email""=>""Message  contact@manastuspace.com"",""office""=>""company"",""website""=>""https://www.manastuspace.com""",19.1278335,72.9272068
+10247412243,Vikhroli Police Station,"""bus""=>""yes"",""public_transport""=>""platform"",""route_ref""=>""126,""",19.1208657,72.9370905
+10249528492,Hanuman Nagar,"""bus""=>""yes"",""public_transport""=>""platform""",19.1396481,72.9217462
+10251478054,Vikhroli Police Station,"""bus""=>""yes"",""public_transport""=>""platform"",""route_ref""=>""126,""",19.1211454,72.93763
+10253594984,Gandhi Nagar,"""bench""=>""yes"",""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""yes""",19.1264375,72.9251611
+10263176449,Hiranandani Gardens,"""wikidata""=>""Q23808255"",""wikimedia_commons""=>""Category:Hiranandani Gardens, Mumbai"",""wikipedia""=>""en:Hiranandani Gardens, Mumbai""",19.1183882,72.911464
+10289597027,Kalimata Mandir,"""amenity""=>""place_of_worship"",""religion""=>""hindu""",19.1305615,72.896826
+10289597036,IIT Main Gate,"""bus""=>""yes"",""public_transport""=>""platform"",""shelter""=>""no""",19.1246198,72.9159678
+10296439235,Dr. Abdul Kalam Chowk,"""junction""=>""yes""",19.1250925,72.9166278
+10310496693,BMC S Ward,"""office""=>""government""",19.1360309,72.9295794
+10767848892,Hotel Sunshine Lodging,"""tourism""=>""hotel""",19.1261081,72.8933908
+10767848899,Budhiya Jadhav Wadi,,19.1212432,72.8904817
+10767923285,Dr. Babasaheb Ambedkar,"""artwork_type""=>""statue"",""tourism""=>""artwork""",19.1263822,72.8942706
+10936690032,Domino's,"""amenity""=>""fast_food"",""brand""=>""Domino's"",""brand:wikidata""=>""Q839466"",""cuisine""=>""pizza"",""takeaway""=>""yes""",19.1445922,72.9345068
+11028340642,Gautam Nagar,,19.1330356,72.895199
+11028470095,Maharashtra State Angling Association,"""club""=>""fishing""",19.1265712,72.8957167
+11359737242,Celestia,"""building""=>""yes"",""building:levels""=>""34"",""building:levels:underground""=>""2"",""building:use""=>""residential""",19.1283753,72.9291397
+11612756956,jalvayu vihar,"""addr:city""=>""Mumbai"",""addr:district""=>""thane"",""addr:housenumber""=>""powai"",""addr:postcode""=>""400076"",""addr:street""=>""hiranandani"",""landuse""=>""residential"",""operator""=>""aarohi"",""residential""=>""apartments""",19.1174696,72.9052217
+11615065762,santosh bar,"""amenity""=>""bar""",19.119448,72.9117389
+11617192265,sharma park,"""leisure""=>""park""",19.1245536,72.9185448
+11617834880,heritage library,"""addr:city""=>""Mumbai"",""addr:district""=>""thane"",""addr:postcode""=>""400076"",""addr:street""=>""Orchard Avenue"",""air_conditioning""=>""yes"",""amenity""=>""library"",""internet_access""=>""yes"",""internet_access:fee""=>""yes"",""opening_hours""=>""Mo-Su 09:00-21:00"",""operator""=>""heritage""",19.1186118,72.9115225
+11617857998,starbucks,"""addr:city""=>""Mumbai"",""addr:district""=>""thane"",""addr:postcode""=>""400076"",""addr:street""=>""High Street"",""air_conditioning""=>""yes"",""amenity""=>""cafe"",""cuisine""=>""coffee_shop;sandwich"",""internet_access""=>""yes"",""internet_access:fee""=>""no"",""opening_hours""=>""Mo-Su 09:00-21:00"",""outdoor_seating""=>""yes"",""phone""=>""1860 266 0010"",""website""=>""https://www.starbucks.in/dashboard""",19.1185484,72.911426
+11617861153,bhakti,"""addr:city""=>""Mumbai"",""addr:district""=>""thane"",""addr:postcode""=>""400076"",""addr:street""=>""Central Avenue"",""opening_hours""=>""Mo-Su 09:00-21:00"",""payment:cash""=>""yes"",""payment:coins""=>""yes"",""payment:credit_cards""=>""yes"",""payment:debit_cards""=>""yes"",""payment:telephone_cards""=>""yes"",""phone""=>""996357365"",""shop""=>""department_store""",19.1230971,72.9133496
+11617861154,lucky,"""addr:city""=>""Mumbai"",""addr:district""=>""thane"",""addr:postcode""=>""400076"",""addr:street""=>""Lakeside Road"",""opening_hours""=>""Mo-Su 08:00-22:00"",""operator""=>""lucky"",""payment:cash""=>""yes"",""payment:coins""=>""yes"",""payment:credit_cards""=>""yes"",""payment:visa_debit""=>""yes"",""phone""=>"": 096199 36834"",""shop""=>""chemist""",19.123457,72.9130706
+11617862179,olympia gardern,"""access""=>""private"",""charge""=>""none"",""fee""=>""no"",""garden:type""=>""residential"",""leisure""=>""garden"",""opening_hours""=>""Mo-Fr 09:00-17:00"",""operator""=>""yerevan heights"",""operator:type""=>""private"",""payment:none""=>""yes""",19.1191483,72.9132017
+11617868277,dr.anjali's hospital,"""addr:city""=>""Mumbai"",""addr:district""=>""Mumbai Suburban"",""addr:postcode""=>""400076"",""addr:street""=>""Adi Sankaracharya Marg"",""amenity""=>""hospital"",""healthcare""=>""hospital"",""healthcare:speciality""=>""otolaryngology"",""opening_hours""=>""Mo-Su 09:00-21:00"",""operator""=>""dr.anjali"",""operator:type""=>""private""",19.1245264,72.9160425
+11697760314,Powai Vatika,"""tourism""=>""attraction""",19.1229152,72.9069326
+11697765006,LODHA Supremus Powai,"""office""=>""company""",19.1186003,72.8902558
+11697785011,Powai Lake Garden,"""leisure""=>""garden""",19.1198038,72.9033493
+11697795359,Powai Plaza,"""shop""=>""mall""",19.1229385,72.9131293
+11697823599,Hakone,"""shop""=>""mall""",19.1224971,72.9136369
+11697989558,Fitencity Gym,"""leisure""=>""sports_hall""",19.118582,72.9011117
+11698053163,Nirvana Park,"""leisure""=>""park""",19.122422,72.9118156
+11698053164,Calisthenics Park,"""leisure""=>""park""",19.1225738,72.9115582
+11698060710,Hiranandani Gardens,"""leisure""=>""garden""",19.1194394,72.9065475
+12171153820,Bhandup,"""public_transport""=>""stop_position"",""railway""=>""stop"",""train""=>""yes""",19.1432857,72.9381079
+12219566476,Lokhandwala Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1406986,72.8271846
+12219566486,Adarsh Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.141842,72.8336123
+12219587411,Momin Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1398313,72.8459716
+12219587427,JVLR Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1405541,72.8539952
+12219587441,Majas Depot Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1392678,72.861908
+12219587475,Mahakali Caves Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1334972,72.8747294
+12219587493,SEEPZ Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.129412,72.8826469
+12219587511,Saki Vihar Road Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1262483,72.8905372
+12219587528,Powai Udyan Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1216096,72.8990144
+12219587550,Powai Lake Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1200529,72.9059473
+12219587586,IIT Powai Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1242806,72.9137252
+12219587638,Kanjurmarg Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1254396,72.9252587
+12219587647,Vikhroli Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1247773,72.9364791
+12219587659,Swami Samarth Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction"",""subway""=>""yes""",19.1436925,72.8197506
+12238582458,Dongripada Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2505685,72.9732191
+12238602759,Wadala TT Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.03806,72.8802108
+12238602794,Bhakti Park Station,"""construction""=>""station"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0288713,72.8778563
+12238602880,Manpada Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2310711,72.9766229
+12238602889,Teen Hath Naka Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1871423,72.9615173
+12238602996,Bhandup Mahapalika Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1387605,72.9307295
+12238603060,Mahapalika Bhavan Marg Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2012863,72.9650295
+12238603132,Naval Housing Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1329084,72.9276763
+12238603158,Kasarvadavli Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2674114,72.9666011
+12238603249,Tikujiniwadi Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2383551,72.9755613
+12238603329,Mulund Fire Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1757013,72.9425157
+12238603344,Sonapur Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.166218,72.938385
+12238603355,Amar Mahal Junction Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0674207,72.8999524
+12238603369,Suman Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.053899,72.8835972
+12238603600,Mulund Check Naka Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.1834798,72.9508296
+12238603734,Shreyas Cinema Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0976602,72.9161659
+12238603738,Lakshmi Nagar Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""railway""=>""construction""",19.0889914,72.9183928
+12238603749,Majiwadi Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2115902,72.9757352
+12238603766,Vijay Garden Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2"",""railway""=>""construction""",19.2587098,72.970088
+12238603793,RTO Thane Station,"""construction""=>""stop"",""public_transport""=>""stop_position"",""public_transport:version""=>""2""",19.1933948,72.9626765
