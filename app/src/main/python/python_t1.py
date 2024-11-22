@@ -70,9 +70,9 @@ def get_place_in_view(lat, lon, orientation, name):
             turn_angle = ((bearing - orientation + np.pi) % (2 * np.pi) - np.pi)*180/np.pi
 
             if (turn_angle >= 0):
-                direction = "left "
-            else:
                 direction = "right "
+            else:
+                direction = "left "
 
             # Select that row
             matches.append((row['name'], int(distance), np.abs(int(turn_angle)), direction, row['other_tags']))
